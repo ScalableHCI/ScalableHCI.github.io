@@ -65,7 +65,7 @@ layout: home
 .image-container {
     position: relative;
     width: 100%;
-    height: 500px; /* 根据你的图片和设计需求调整高度 */
+    height: 400px; /* 根据你的图片和设计需求调整高度 */
     background-image: url('assets/Background.jpg'); /* 根据你的图片路径调整 */
     background-size: cover;
     background-position: center;
@@ -95,7 +95,7 @@ layout: home
 .custom-h1 {
     font-size: 2em; /* 或其他你需要的大小 */
     font-weight: bold; /* 使文本加粗 */
-    color: red; /* 设置文本颜色为红色 */
+    color: #6f2316; /* 设置文本颜色为红色 */
     text-align: center; /* 居中文本 */
     margin: 0; /* 移除默认的边距 */
     padding: 10px 0; /* 可选：添加一些上下填充 */
@@ -111,7 +111,7 @@ layout: home
     text-align: center; /* 居中文本 */
     margin: 0; /* 移除默认的边距 */
     padding: 10px 0; /* 可选：添加一些上下填充 */
-    font-size: 1em; /* 设置字体大小，根据需要调整 */
+    font-size: 1.5em; /* 设置字体大小，根据需要调整 */
 }
 
 </style>
