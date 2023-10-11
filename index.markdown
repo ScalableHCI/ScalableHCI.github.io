@@ -82,13 +82,13 @@ layout: home
 }
 
 .line1 {
-    font-size: 3em;
+    font-size: 4em;
     margin: 0;
     front-weight: bold;
 }
 
 .line2 {
-    font-size: 2em;
+    font-size: 3em;
     margin: 0;
 }
 
