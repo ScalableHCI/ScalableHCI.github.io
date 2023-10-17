@@ -14,52 +14,54 @@ layout: home
 
 <div class="section-title">
     <h1 class="custom-h1">Date</h1>
-    <p class="section-content">
+    <p class="section-content-center">
     January 8 to January 12, 2024
     </p>
 </div>
 
 <div class="section-title">
     <h1 class="custom-h1">Introduction</h1>
-    <p class="section-content">
-    Field trips to Huaqiangbei, factories (e.g., PCB manufacturing company), and start-ups.<br>
-    24 Hours Hackathon.<br>
-    Cultural Exchange events.<br>     
-    Poster Presentations by Students (MIT, KAIST, SUSTech, etc.).<br>
-    Seminar Presentations by distinguished guests.<br>
-    </p>
+    <ul class="section-content-left">
+    <li>Field trips to Huaqiangbei, factories (e.g., PCB manufacturing company), and start-ups.</li>
+    <li>24 Hours Hackathon.</li>
+    <li>Cultural Exchange events.</li> 
+    <li>Poster Presentations by Students (MIT, KAIST, SUSTech, etc.).</li>
+    <li>Seminar Presentations by distinguished guests.</li>
+    </ul>
 </div>
 
 <div class="section-title">
     <h1 class="custom-h1">Program</h1>
-    <p class="section-content">
-    Field trips to Huaqiangbei, factories (e.g., PCB manufacturing company), and start-ups.<br>
-    24 Hours Hackathon.<br>
-    Cultural Exchange events.<br>  
-    Poster Presentations by Students (MIT, KAIST, SUSTech, etc.).<br>
-    Seminar Presentations by distinguished guests.<br>
-    </p>
+    <ul class="section-content-left">
+    <li>Field trips to Huaqiangbei, factories (e.g., PCB manufacturing company), and start-ups.</li>
+    <li>24 Hours Hackathon.</li>
+    <li>Cultural Exchange events.</li>
+    <li>Poster Presentations by Students (MIT, KAIST, SUSTech, etc.).</li>
+    <li>Seminar Presentations by distinguished guests.</li>
+    </ul>
 </div>
 
 <div class="section-title">
     <h1 class="custom-h1">Organizer</h1>
-    <p class="section-content">
-    Seungwoo JE (SUSTech School of Design, Assistant Professor) <br>
-    Xueliang Li (SUSTech School of Design, Assistant Professor)  <br>
-    Pengcheng An (SUSTech School of Design, Assistant Professor) <br>
-    Stefanie Mueller (MIT, Associate Professor)  <br>
-    Cedric Honnet (MIT, PhD student) <br>
-    Chang Hee Lee (KAIST, Assistant Professor)  <br>
-    Tek-Jin Nam (KAIST, Professor) <br>
-    </p>
+    <ul class="section-content-left">
+        <li>Seungwoo JE (SUSTech School of Design, Assistant Professor)</li>
+        <li>Xueliang Li (SUSTech School of Design, Assistant Professor)</li>
+        <li>Pengcheng An (SUSTech School of Design, Assistant Professor)</li>
+        <li>Stefanie Mueller (MIT, Associate Professor)</li>
+        <li>Cedric Honnet (MIT, PhD student)</li>
+        <li>Chang Hee Lee (KAIST, Assistant Professor)</li>
+        <li>Tek-Jin Nam (KAIST, Professor)</li>
+    </ul>
 </div>
 
 <div class="section-title">
     <h1 class="custom-h1">Sponsor</h1>
-    <p class="section-content">
+    <p class="section-content-center">
     SUSTech School of Design, Seeed Studio / Chaihuo 
     </p>
 </div>
+
+![Logo](assets/logocombine.jpg)
 
 <style>
 .image-container {
@@ -106,7 +108,15 @@ layout: home
     text-align: center; /* 这会使容器内的所有元素居中 */
 }
 
-.section-content {
+.section-content-left {
+    color: black; /* 设置文本颜色为黑色 */
+    text-align: left; /* 居中文本 */
+    margin: 0; /* 移除默认的边距 */
+    padding: 10px 0; /* 可选：添加一些上下填充 */
+    font-size: 1.5em; /* 设置字体大小，根据需要调整 */
+}
+
+.section-content-center {
     color: black; /* 设置文本颜色为黑色 */
     text-align: center; /* 居中文本 */
     margin: 0; /* 移除默认的边距 */
