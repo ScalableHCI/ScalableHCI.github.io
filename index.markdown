@@ -8,7 +8,7 @@ layout: home
 <div class="image-container">
     <div class="text-container">
         <p class="line1">Scalable HCI Symposium</p>
-        <p class="line2">2023</p>
+        <p class="line2">2024</p>
     </div>
 </div>
 
@@ -27,31 +27,19 @@ layout: home
     <li>Cultural Exchange events.</li> 
     <li>Poster Presentations by Students (MIT, KAIST, SUSTech, etc.).</li>
     <li>Seminar Presentations by distinguished guests.</li>
+    <li>Will be update.</li>
     </ul>
 </div>
 
 <div class="section-title">
-    <h1 class="custom-h1">Program</h1>
-    <ul class="section-content-left">
-    <li>Field trips to Huaqiangbei, factories (e.g., PCB manufacturing company), and start-ups.</li>
-    <li>24 Hours Hackathon.</li>
-    <li>Cultural Exchange events.</li>
-    <li>Poster Presentations by Students (MIT, KAIST, SUSTech, etc.).</li>
-    <li>Seminar Presentations by distinguished guests.</li>
-    </ul>
-</div>
+    <h1 class="custom-h1">Shenzhen</h1>
+    <p class="section-content-left">
+    Shenzhen is a major city located in the southern region of Guangdong Province in China, adjacent to Hong Kong. It's known as a significant hub for global electronics manufacturing and is often called the "Silicon Valley of Hardware." The city's rapid growth from a small fishing village to a metropolis is a testament to its remarkable economic development, primarily driven by its booming manufacturing sector.<br><br>
 
-<div class="section-title">
-    <h1 class="custom-h1">Organizer</h1>
-    <ul class="section-content-left">
-        <li>Seungwoo JE (SUSTech School of Design, Assistant Professor)</li>
-        <li>Xueliang Li (SUSTech School of Design, Assistant Professor)</li>
-        <li>Pengcheng An (SUSTech School of Design, Assistant Professor)</li>
-        <li>Stefanie Mueller (MIT, Associate Professor)</li>
-        <li>Cedric Honnet (MIT, PhD student)</li>
-        <li>Chang Hee Lee (KAIST, Assistant Professor)</li>
-        <li>Tek-Jin Nam (KAIST, Professor)</li>
-    </ul>
+    In the manufacturing sphere, Shenzhen is home to many high-tech companies, including giants like Huawei and Tencent, as well as many start-ups and small to medium-sized enterprises. The city's manufacturing domain extends to various sectors, including electronics, telecommunications equipment, and computer peripherals. The presence of these industries has fostered a robust hardware development, manufacturing, and innovation ecosystem.<br><br>
+
+    Shenzhen's infrastructure is meticulously designed to support its manufacturing and tech industries. The city boasts modern facilities, well-established industrial parks, and specialized zones like the Shenzhen High-Tech Industrial Park (SHIP) and the Shenzhen Software Park, providing a conducive environment for businesses to thrive. Moreover, Shenzhen has a well-developed transportation network that facilitates the easy movement of goods and people.
+    </p>
 </div>
 
 <div class="section-title">
@@ -110,7 +98,8 @@ layout: home
 
 .section-content-left {
     color: black; /* 设置文本颜色为黑色 */
-    text-align: left; /* 居中文本 */
+    text-align: justify; /* 居中文本 */
+    hyphens: auto; /* 添加连字符 */
     margin: 0; /* 移除默认的边距 */
     padding: 10px 0; /* 可选：添加一些上下填充 */
     font-size: 1.5em; /* 设置字体大小，根据需要调整 */
