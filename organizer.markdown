@@ -27,7 +27,7 @@ permalink: /organizer/
     font-size: 2em; /* 或其他你需要的大小 */
     font-weight: bold; /* 使文本加粗 */
     color: #6f2316; /* 设置文本颜色为红色 */
-    text-align: center; /* 居中文本 */
+    text-align: left; /* 居中文本 */
     margin: 0; /* 移除默认的边距 */
     padding: 10px 0; /* 可选：添加一些上下填充 */
 }

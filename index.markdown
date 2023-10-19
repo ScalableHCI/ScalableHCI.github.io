@@ -14,7 +14,7 @@ layout: home
 
 <div class="section-title">
     <h1 class="custom-h1">Date</h1>
-    <p class="section-content-center">
+    <p class="section-content-left">
     January 8 to January 12, 2024
     </p>
 </div>
@@ -44,7 +44,7 @@ layout: home
 
 <div class="section-title">
     <h1 class="custom-h1">Sponsor</h1>
-    <p class="section-content-center">
+    <p class="section-content-left">
     SUSTech School of Design, Seeed Studio / Chaihuo 
     </p>
 </div>
@@ -86,7 +86,7 @@ layout: home
     font-size: 2em; /* 或其他你需要的大小 */
     font-weight: bold; /* 使文本加粗 */
     color: #6f2316; /* 设置文本颜色为红色 */
-    text-align: center; /* 居中文本 */
+    text-align: left; /* 居中文本 */
     margin: 0; /* 移除默认的边距 */
     padding: 10px 0; /* 可选：添加一些上下填充 */
 }
