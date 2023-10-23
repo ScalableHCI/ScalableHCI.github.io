@@ -12,14 +12,8 @@ permalink: /pragram/
     <li>Cultural Exchange events.</li>
     <li>Poster Presentations by Students (MIT, KAIST, SUSTech, etc.).</li>
     <li>Seminar Presentations by distinguished guests.</li>
-    <li>will be update.</li>
-    </ul>
-</div>
-
-<div class="section-title">
-    <h1 class="custom-h1">Student Volunteers</h1>
-    <ul class="section-content-left">
-    <li>Yilong Lin</li>
+    <br>
+    <li>Will be update.</li>
     </ul>
 </div>
 

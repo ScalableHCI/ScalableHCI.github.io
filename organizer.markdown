@@ -17,6 +17,13 @@ permalink: /organizer/
     </ul>
 </div>
 
+<div class="section-title">
+    <h1 class="custom-h1">Student Volunteers</h1>
+    <ul class="section-content-left">
+    <li>Yilong Lin</li>
+    </ul>
+</div>
+
 <style>
 /* 如果你想让每个标题在一个特定的区域或者容器中居中，你也可以使用 .section-title 类： */
 .section-title {
