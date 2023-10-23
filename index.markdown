@@ -22,12 +22,7 @@ layout: home
 <div class="section-title">
     <h1 class="custom-h1">Introduction</h1>
     <ul class="section-content-left">
-    <li>Field trips to Huaqiangbei, factories (e.g., PCB manufacturing company), and start-ups.</li>
-    <li>24 Hours Hackathon.</li>
-    <li>Cultural Exchange events.</li> 
-    <li>Poster Presentations by Students (MIT, KAIST, SUSTech, etc.).</li>
-    <li>Seminar Presentations by distinguished guests.</li>
-    <li>Will be update.</li>
+    The Scalable HCI Research Symposium aims to encourage conversations about scalable Human-Computer Interaction (HCI), highlights Shenzhen's position as a global hardware hub, and motivates students to become more involved in the HCI community. Shenzhen is renowned for its hardware manufacturing capabilities, which presents incredible opportunities for expanding HCI research. We will also engage in conversations with industry professionals about scalable production.
     </ul>
 </div>
 
