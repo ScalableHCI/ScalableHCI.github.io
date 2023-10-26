@@ -40,11 +40,11 @@ layout: home
 <div class="section-title">
     <h1 class="custom-h1">Sponsor</h1>
     <p class="section-content-left">
-    SUSTech School of Design, Seeed Studio / Chaihuo 
+    ACM SIGCHI, SUSTech School of Design, Seeed Studio / Chaihuo 
     </p>
 </div>
 
-![Logo](assets/logocombine.jpg)
+![Logo](assets/logocombine1.jpg)
 
 <style>
 .image-container {

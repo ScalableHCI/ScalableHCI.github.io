@@ -12,15 +12,13 @@ permalink: /organizer/
         <li>Pengcheng An (SUSTech School of Design, Assistant Professor)</li>
         <li>Stefanie Mueller (MIT, Associate Professor)</li>
         <li>Cedric Honnet (MIT, PhD student)</li>
-        <li>Chang Hee Lee (KAIST, Assistant Professor)</li>
-        <li>Tek-Jin Nam (KAIST, Professor)</li>
     </ul>
 </div>
 
 <div class="section-title">
     <h1 class="custom-h1">Student Volunteers</h1>
     <ul class="section-content-left">
-    <li>Yilong Lin</li>
+    <li>Yilong Lin (SUSTech School of Design, Master Student)</li>
     </ul>
 </div>
 
