@@ -6,10 +6,11 @@ permalink: /registration/
 
 <div class="section-title">
     <h1 class="custom-h1">Registration</h1>
-    <ul class="section-content-left">
-    <li>Will be update.</li>
-    </ul>
 </div>
+
+
+Coming soon!
+
 
 <style>
 /* 如果你想让每个标题在一个特定的区域或者容器中居中，你也可以使用 .section-title 类： */
