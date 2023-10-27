@@ -1,21 +1,47 @@
 ---
 layout: page
 title: Program
-permalink: /pragram/
+permalink: /program/
 ---
 
 <div class="section-title">
     <h1 class="custom-h1">Program</h1>
-    <ul class="section-content-left">
-    <li>Field trips to Huaqiangbei, factories (e.g., PCB manufacturing company), and start-ups.</li>
-    <li>24 Hours Hackathon.</li>
-    <li>Cultural Exchange events.</li>
-    <li>Poster Presentations by Students (MIT, KAIST, SUSTech, etc.).</li>
-    <li>Seminar Presentations by distinguished guests.</li>
-    <br>
-    <li>Will be update.</li>
-    </ul>
 </div>
+
+**Academic**
+*   Seminar Presentations by distinguished guests from academia & industry
+*   Poster Presentations by Students (MIT, KAIST, SUSTech, etc.)
+*   24 Hours Hackathon
+
+**Technical**
+*   Field trips to HuaQiangBei
+*   Factories visits:
+    *   PCB manufacturers
+    *   Injection molding
+    *   3d printing
+    *   Knitting
+    *   Fibers
+    *   etc.
+*   Makerspaces visits
+
+**Cultural**
+*   Art village (Dafen)
+*   Art & Tech visits (HQB Museums, AIRS Space, etc)
+*   Food exploration field trips
+
+More details coming soon!
+
+---
+
+<div class="section-title">
+    <h1 class="custom-h1">References</h1>
+</div>
+
+This symposium is a part of a 1-month open research residency, in which everything will be documented online. This program was heavily inspired, and aims to continue the legacy of:
+*    The [Hacker Trip To China](https://www.noisebridge.net/wiki/HTTC2019) by Noisebridge, the San Francisco Hackerspace.
+*    The [Research At Scale](https://www.media.mit.edu/posts/shenzhen-blog-post/) program by the MIT Media Lab.
+
+
 
 <style>
 /* 如果你想让每个标题在一个特定的区域或者容器中居中，你也可以使用 .section-title 类： */
