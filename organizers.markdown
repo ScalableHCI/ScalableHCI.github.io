@@ -1,26 +1,26 @@
 ---
 layout: page
-title: Organizer
-permalink: /organizer/
+title: Organizers
+permalink: /organizers/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Organizer</h1>
-    <ul class="section-content-left">
-        <li>Seungwoo JE (SUSTech School of Design, Assistant Professor)</li>
-        <li>Xueliang Li (SUSTech School of Design, Assistant Professor)</li>
-        <li>Pengcheng An (SUSTech School of Design, Assistant Professor)</li>
-        <li>Stefanie Mueller (MIT, Associate Professor)</li>
-        <li>Cedric Honnet (MIT, PhD student)</li>
-    </ul>
+    <h1 class="custom-h1">Organizers</h1>
 </div>
+
+*   Seungwoo JE (SUSTech School of Design, Assistant Professor)
+*   Xueliang Li (SUSTech School of Design, Assistant Professor)
+*   Pengcheng An (SUSTech School of Design, Assistant Professor)
+*   Stefanie Mueller (MIT, Associate Professor)
+*   Cedric Honnet (MIT, PhD student)
 
 <div class="section-title">
     <h1 class="custom-h1">Student Volunteers</h1>
-    <ul class="section-content-left">
-    <li>Yilong Lin (SUSTech School of Design, Master Student)</li>
-    </ul>
 </div>
+
+*   Yilong Lin (SUSTech School of Design, Master Student)
+*   More soon!
+
 
 <style>
 /* 如果你想让每个标题在一个特定的区域或者容器中居中，你也可以使用 .section-title 类： */
