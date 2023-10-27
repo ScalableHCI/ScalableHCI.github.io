@@ -8,14 +8,14 @@ layout: home
 <div class="image-container">
     <div class="text-container">
         <p class="line1">Scalable HCI Symposium</p>
-        <p class="line1">2024</p>
+        <p class="line1">Shenzhen, 2024</p>
     </div>
 </div>
 
 <div class="section-title">
     <h1 class="custom-h1">Date</h1>
     <p class="section-content-left">
-    January 8 to January 12, 2024.
+    January 8 - 12, 2024.
     </p>
 </div>
 
@@ -38,7 +38,7 @@ layout: home
 </div>
 
 <div class="section-title">
-    <h1 class="custom-h1">Sponsor</h1>
+    <h1 class="custom-h1">Sponsors</h1>
     <p class="section-content-left">
     ACM SIGCHI, SUSTech School of Design, Seeed Studio / Chaihuo 
     </p>
