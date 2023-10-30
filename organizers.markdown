@@ -8,7 +8,7 @@ permalink: /organizers/
     <h1 class="custom-h1">Organizers</h1>
 </div>
 
-*   Seungwoo JE (SUSTech School of Design, Assistant Professor)
+*   [Seungwoo JE](https://www.seungwooje.com/) (SUSTech School of Design, Assistant Professor)
 *   Xueliang Li (SUSTech School of Design, Assistant Professor)
 *   Pengcheng An (SUSTech School of Design, Assistant Professor)
 *   Stefanie Mueller (MIT, Associate Professor)
