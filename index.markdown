@@ -54,6 +54,7 @@ layout: home
     background-image: url('assets/Background.jpg'); /* 根据你的图片路径调整 */
     background-size: cover;
     background-position: center;
+    z-index: -2;
 }
 
 .text-container {
@@ -64,6 +65,7 @@ layout: home
     color: white;
     text-align: center; /* 添加这行来水平居中文本 */
     width: 100%; /* 添加这行来确保文本容器宽度和图片一致 */
+    z-index: -1;
 }
 
 .line1 {
