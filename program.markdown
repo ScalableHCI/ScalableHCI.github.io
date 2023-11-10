@@ -5,6 +5,84 @@ permalink: /program/
 ---
 
 <div class="section-title">
+    <h1 class="custom-h1">Schedule</h1>
+</div>
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>8-Jan</th>
+    <th>9-Jan</th>
+    <th>10-Jan</th>
+    <th>11-Jan</th>
+    <th>12-Jan</th>
+    <th>13-Jan</th>
+  </tr>
+  <tr>
+    <td>08:00-09:00</td>
+    <td></td>
+    <td rowspan="11">Factories visits</td>
+    <td rowspan="11">Factories & HuaQiangBei visits</td>
+    <td>Gathering</td>
+    <td></td>
+    <td>Gathering</td>
+  </tr>
+  <tr>
+    <td>09:00-10:00</td>
+    <td rowspan = "3">Registration (University tour for early arriving participants 10:30)</td>
+    <td rowspan = "3">Making Workshop by Seeed (Chaihuo visit)</td>
+    <td rowspan = "2">Hackathon</td>
+    <td rowspan="13">Visits (Cultural) <br>*Only for willing participants</td>
+  </tr>
+  <tr>
+    <td>10:00-11:00</td>
+  </tr>
+  <tr>
+    <td>11:00-12:00</td>
+    <td>Seminar</td>
+  </tr>
+  <tr>
+    <td>12:00-13:00</td>
+    <td rowspan="2">Lunch Time</td>
+    <td rowspan="2">Lunch Time</td>
+    <td rowspan="2">Lunch Time</td>
+  </tr>
+  <tr>
+    <td>13:00-14:00</td>
+  </tr>
+  <tr>
+    <td>14:00-15:00</td>
+    <td>Creating Group</td>
+    <td rowspan="7">Hackathon <br>(*Educators who do not participate in the hackathon have other schedules)</td>
+    <td rowspan="7">Visits (Cultural) <br>*Only for willing participants</td>
+  </tr>
+  <tr>
+    <td>15:00-16:00</td>
+    <td rowspan="2">Poster Presentation</td>
+  </tr>
+  <tr>
+    <td>16:00-17:00</td>
+  </tr>
+  <tr>
+    <td>17:00-18:00</td>
+    <td>Keynote</td>
+  </tr>
+  <tr>
+    <td>18:00-19:00</td>
+  </tr>
+  <tr>
+    <td>19:00-20:00</td>
+  </tr>
+  <tr>
+    <td>20:00-21:00</td>
+  </tr>
+  <!-- ... other rows ... -->
+</table>
+
+*   The Symposium will cover all transportation and entrance fees required for the visit.
+*   The schedule may be adjusted depending on local circumstances.
+
+<div class="section-title">
     <h1 class="custom-h1">Program</h1>
 </div>
 
