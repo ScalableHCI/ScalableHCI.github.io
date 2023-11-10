@@ -21,12 +21,12 @@ Bldg.C1, Nanshan Zhiyuan, No.1001 Xueyuan Avenue, Nanshan District, Shenzhen, Gu
 </div>
 
 *   Taxi: 1 hour from Shenzhen Bao'an International Airport
-*   Subway: Line 11, Qianhaiwan Station; change to Line 5, Tanglang Station, Exit C
+*   Subway: Line 11, get off at Qianhaiwan Station; change to Line 5, Tanglang Station, Exit C
 
 ---
 
 *   出租车：距离深圳宝安国际机场1小时车程
-*   地铁：11号线，前海湾站；换乘5号线，塘朗站，C出口
+*   地铁：11号线，前海湾站下车；换乘5号线，塘朗站，C出口
 
 <div class="section-title">
     <h1 class="custom-h1">Hotel</h1>
