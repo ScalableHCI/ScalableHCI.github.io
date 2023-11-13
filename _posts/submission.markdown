@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Registration
-permalink: /registration/
+title: Rigster System
+permalink: /registration/system/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Registration</h1>
+    <h1 class="custom-h1">Rigster System</h1>
 </div>
 
-[Rigister System](/registration/system/)
-
-More soon!
+1
 
 <style>
 /* 如果你想让每个标题在一个特定的区域或者容器中居中，你也可以使用 .section-title 类： */

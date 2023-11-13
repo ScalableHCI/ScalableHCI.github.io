@@ -1,0 +1,22 @@
+<header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  
+      {%- if site.navigation -%}
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <!-- SVG for menu icon -->
+          </span>
+        </label>
+  
+        <div class="trigger">
+          {%- for nav_item in site.navigation -%}
+            <a class="page-link" href="{{ nav_item.url | relative_url }}">{{ nav_item.title | escape }}</a>
+          {%- endfor -%}
+        </div>
+      </nav>
+      {%- endif -%}
+    </div>
+  </header>

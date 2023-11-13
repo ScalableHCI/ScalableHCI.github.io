@@ -37,6 +37,16 @@ plugins:
 include:
   - assets/css/style.css  
 
+navigation:
+  - title: Venue
+    url: /venue/
+  - title: Organizers
+    url: /organizers/
+  - title: Program
+    url: /program/
+  - title: Rigistration
+    url: /registration/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
