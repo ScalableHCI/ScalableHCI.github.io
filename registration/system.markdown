@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Registration System
+title: Register System
 permalink: /registration/system/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Submission System</h1>
+    <h1 class="custom-h1">Register System</h1>
 </div>
 
 <iframe src="https://forms.fillout.com/t/6vh9LTs4gVus" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
