@@ -5,11 +5,11 @@ permalink: /registration/system_non/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Register System</h1>
+    <h1 class="custom-h1">Register System (Non-Chinese Universities)</h1>
 </div>
 
 <div class="fillout-form">
-    <iframe src="https://forms.fillout.com/t/6vh9LTs4gVus" width="740" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></iframe>
+    <iframe src="https://forms.fillout.com/t/6vh9LTs4gVus" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
 <style>
