@@ -8,7 +8,10 @@ permalink: /registration/
     <h1 class="custom-h1">Registration</h1>
 </div>
 
-[Rigister System](/registration/system/)
+[Rigister System (non-Chinese universities)](/registration/system_non/)
+
+[Rigister System (Chinese universities)](/registration/system/)
+
 
 More soon!
 

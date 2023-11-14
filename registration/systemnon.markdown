@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Register System Chinese Universities
-permalink: /registration/system/
+title: Register System Non-Chinese Universities
+permalink: /registration/system_non/
 ---
 
 <div class="section-title">
@@ -9,7 +9,7 @@ permalink: /registration/system/
 </div>
 
 <div class="fillout-form">
-    <iframe src="https://www.wjx.top/vm/tLwVDbm.aspx?width=760&source=iframe&s=t" width="740" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <iframe src="https://forms.fillout.com/t/6vh9LTs4gVus" width="740" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></iframe>
 </div>
 
 <style>
