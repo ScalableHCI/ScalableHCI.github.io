@@ -8,7 +8,9 @@ permalink: /registration/system/
     <h1 class="custom-h1">Register System</h1>
 </div>
 
-<iframe src="https://forms.fillout.com/t/6vh9LTs4gVus" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div class="fillout-form">
+    <iframe src="https://forms.fillout.com/t/6vh9LTs4gVus" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
 
 <style>
 /* 如果你想让每个标题在一个特定的区域或者容器中居中，你也可以使用 .section-title 类： */
@@ -60,4 +62,14 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #45a049; /* 鼠标悬停时的颜色变化 */
 }
+
+/* 移动设备样式调整 */
+@media (max-width: 768px) {
+    .fillout-form iframe {
+        width: 100%; /* 在手机端占满可用宽度 */
+        height: auto; /* 高度自动调整 */
+        min-height: 1100px; /* 最小高度设置，确保表单内容可见 */
+    }
+}
+
 </style>
