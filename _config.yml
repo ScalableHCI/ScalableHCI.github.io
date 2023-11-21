@@ -38,14 +38,14 @@ include:
   - assets/css/style.css
 
 navigation:
-  - title: Venue
-    url: /venue/
-  - title: Organizers
-    url: /organizers/
   - title: Program
     url: /program/
+  - title: Venue
+    url: /venue/
   - title: Registration
     url: /registration/
+  - title: Organizers
+    url: /organizers/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

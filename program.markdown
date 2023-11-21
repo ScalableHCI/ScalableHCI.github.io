@@ -83,17 +83,18 @@ permalink: /program/
 *   The schedule may be adjusted depending on local circumstances.
 
 <div class="section-title">
-    <h1 class="custom-h1">Program</h1>
+    <h1 class="custom-h1">Summary</h1>
 </div>
 
 **Academic**
 *   Seminar Presentations by distinguished guests from academia & industry
 *   Poster Presentations by Students (MIT, KAIST, SUSTech, etc.)
+*   Hands-on Workshops
 *   24 Hours Hackathon
 
 **Technical**
 *   Field trips to HuaQiangBei
-*   Factories visits:
+*   Factories visit options:
     *   PCB manufacturers
     *   Injection molding
     *   3d printing
@@ -104,10 +105,8 @@ permalink: /program/
 
 **Cultural**
 *   Art village (Dafen)
-*   Art & Tech visits (HQB Museums, AIRS Space, etc)
+*   Art & Tech visits (HQB Museums, AIRSpace, etc)
 *   Food exploration field trips
-
-More details coming soon!
 
 ---
 
