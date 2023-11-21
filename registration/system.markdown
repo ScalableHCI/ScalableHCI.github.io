@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Register System Chinese Universities
+title: Registration System Chinese Universities
 permalink: /registration/system/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Register System (Chinese Universities)</h1>
+    <h1 class="custom-h1">Registration System (Chinese Universities)</h1>
 </div>
 
 <div class="fillout-form">
