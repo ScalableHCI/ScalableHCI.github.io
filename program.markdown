@@ -53,7 +53,7 @@ permalink: /program/
     </tr>
     <tr>
       <td>14:00-15:00</td>
-      <td rowspan="2">Demos & Posters session</td>
+      <td rowspan="3">Demos & Posters session</td>
       <td rowspan="7">Hackathon <br>(*Educators who do not participate have other schedules)</td>
       <td rowspan="7">Cultural visits<br>(optional)</td>
     </tr>
@@ -62,7 +62,6 @@ permalink: /program/
     </tr>
     <tr>
       <td>16:00-17:00</td>
-      <td>Groups creation</td>
     </tr>
     <tr>
       <td>17:00-18:00</td>
