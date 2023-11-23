@@ -5,13 +5,32 @@ permalink: /registration/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Registration</h1>
+    <h1 class="custom-h1">Registration System</h1>
 </div>
 
 [Registration System (non-Chinese universities)](/registration/system_non/)
 
 [Registration System (Chinese universities)](/registration/system/)
 
+<div class="section-title">
+    <h1 class="custom-h1">Related Informaiton</h1>
+</div>
+
+# Registration Deadline
+2023.12.17
+
+# Poster Session
+The poster session is designed to allow students from various backgrounds to introduce their research to each other. The topic can be anything related to HCI. This is a non-published symposium so students can create a poster introducing their research.
+
+# Poster Size
+Height 170 cm × Width 120 cm, Pdf format
+
+# Poster Printing
+The symposium will print all the posters.
+
+# More
+- No Registration fee.
+- Student participants need to submit a poster for poster session (Non-publish).
 
 More soon!
 
