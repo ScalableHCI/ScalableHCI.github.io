@@ -9,7 +9,7 @@ permalink: /registration/system_non/
 </div>
 
 <div class="fillout-form">
-    <iframe src="https://forms.fillout.com/t/6vh9LTs4gVus" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <iframe src="https://forms.fillout.com/t/6vh9LTs4gVus" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
 <style>
@@ -33,34 +33,6 @@ permalink: /registration/system_non/
     margin: 0; /* 移除默认的边距 */
     padding: 10px 0; /* 可选：添加一些上下填充 */
     font-size: 1.5em; /* 设置字体大小，根据需要调整 */
-}
-
-/* 你可以根据需要添加额外的 CSS 来美化表单 */
-input[type="text"],
-input[type="email"],
-textarea {
-    width: 100%; /* 让输入框填满容器宽度 */
-    padding: 8px; /* 添加一些内边距 */
-    margin: 8px 0; /* 添加一些外边距 */
-    display: inline-block; /* 使元素以块级方式显示，但仍然在行内 */
-    border: 1px solid #ccc; /* 边框 */
-    border-radius: 4px; /* 边框圆角 */
-    box-sizing: border-box; /* 盒模型 */
-}
-
-input[type="submit"] {
-    width: 100%;
-    background-color: #4CAF50; /* 按钮颜色 */
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer; /* 鼠标光标 */
-}
-
-input[type="submit"]:hover {
-    background-color: #45a049; /* 鼠标悬停时的颜色变化 */
 }
 
 /* 移动设备样式调整 */
