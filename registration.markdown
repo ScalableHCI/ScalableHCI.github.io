@@ -25,6 +25,9 @@ Height 170 cm × Width 120 cm, PDF format
 # Poster Printing
 The symposium team will print all the posters.
 
+# Demo
+If you want to show off your prototype, please describe your demo and what you need. The organizer will contact you to help you set up your demo.
+
 # Registration fee
 Free for all.
 
