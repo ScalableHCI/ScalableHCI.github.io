@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Registration System Non-Chinese Universities
+title: Registration System Non-Chinese Institutions
 permalink: /registration/system_non/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Registration System (Non-Chinese Universities)</h1>
+    <h1 class="custom-h1">Registration System (Non-Chinese Institutions)</h1>
 </div>
 
 <div class="fillout-form">

@@ -8,16 +8,16 @@ permalink: /registration/
     <h1 class="custom-h1">Registration</h1>
 </div>
 
-- [Non-Chinese universities](/registration/system_non/)
+- [Non-Chinese institutions](/registration/system_non/)
 
-- [Chinese universities](/registration/system/)
+- [Chinese institutions](/registration/system/)
 
 # Deadline
 December 17, 2023
 
 # Poster / Demo session
-This session is designed to allow students from various backgrounds to introduce their research to each other.
-The topic can be anything related to HCI and research at scale. This will be non-archival as in other SIGCHI demo/poster sessions, but if students introduce new work, the posters will not be published.
+This session is designed to allow participants from various backgrounds to introduce their research to each other.
+The topic can be anything related to HCI and research at scale. This will be non-archival as in other SIGCHI demo/poster sessions, but if participants introduce new work, the posters will not be published.
 
 # Poster Size
 Height 170 cm × Width 120 cm, PDF format
