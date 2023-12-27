@@ -14,6 +14,7 @@ permalink: /organizers/
 *   [Ellie Cai](https://www.seeedstudio.com/blog/author/ellie/) (Community Manager at Seeed Studio)
 *   [Stefanie Mueller](http://people.csail.mit.edu/stefaniemueller) (MIT, Associate Professor)
 *   [Cedric Honnet](https://honnet.eu/) (MIT, PhD student)
+*   [Xiaohua Sun](https://shdi.tongji.edu.cn/8b/4a/c16428a166730/page.htm) (TONGJI, Chair Professor)
 
 <div class="section-title">
     <h1 class="custom-h1">Support Team</h1>
