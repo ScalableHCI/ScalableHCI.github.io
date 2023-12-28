@@ -8,13 +8,13 @@ permalink: /organizers/
     <h1 class="custom-h1">Organizers</h1>
 </div>
 
+*   Xiaohua Sun (SUSTech School of Design, Chair Professor)
 *   [Seungwoo JE](https://www.seungwooje.com/) (SUSTech School of Design, Assistant Professor)
 *   [Xueliang Li](https://designschool.sustech.edu.cn/about/team/faculty/483.html) (SUSTech School of Design, Assistant Professor)
 *   [Pengcheng An](https://anpengcheng.cn/) (SUSTech School of Design, Assistant Professor)
 *   [Ellie Cai](https://www.seeedstudio.com/blog/author/ellie/) (Community Manager at Seeed Studio)
 *   [Stefanie Mueller](http://people.csail.mit.edu/stefaniemueller) (MIT, Associate Professor)
 *   [Cedric Honnet](https://honnet.eu/) (MIT, PhD student)
-*   [Xiaohua Sun](https://shdi.tongji.edu.cn/8b/4a/c16428a166730/page.htm) (TONGJI, Chair Professor)
 
 <div class="section-title">
     <h1 class="custom-h1">Support Team</h1>
