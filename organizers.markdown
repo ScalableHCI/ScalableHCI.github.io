@@ -24,6 +24,11 @@ permalink: /organizers/
 *   [Paul Hamilton](https://gitlab.com/parkview) (Shenzhen / Hardware Mentor)
 *   More soon!
 
+<div class="section-title">
+    <h1 class="custom-h1">Host Institution</h1>
+</div>
+
+Established in April 2020, the School of Design at the Southern University of Science and Technology (SUSTech) is educating students to be the next generation of technically literate, ethically responsible and socially engaged leaders in innovation, and the faculty members are conducting cutting-edge research and knowledge transfer for the development of the sustainable innovation ecosystem in the region. Currently, the School of Design has built up a cross-disciplinary and international faculty from several countries, including China, Germany, Denmark, Switzerland, Italy and South Korea, and from diverse academic backgrounds, such as industrial design, interaction design, architectural design, mathematics, structure and material. sound, film-making, and sociology.
 
 <style>
 /* 如果你想让每个标题在一个特定的区域或者容器中居中，你也可以使用 .section-title 类： */
