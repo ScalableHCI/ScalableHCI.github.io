@@ -5,23 +5,36 @@ permalink: /organizers/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Organizers</h1>
+    <h1 class="custom-h1">General Chairs</h1>
 </div>
 
-*   Xiaohua Sun (SUSTech School of Design, Chair Professor)
-*   [Seungwoo JE](https://www.seungwooje.com/) (SUSTech School of Design, Assistant Professor)
-*   [Xueliang Li](https://designschool.sustech.edu.cn/about/team/faculty/483.html) (SUSTech School of Design, Assistant Professor)
-*   [Pengcheng An](https://anpengcheng.cn/) (SUSTech School of Design, Assistant Professor)
-*   [Ellie Cai](https://www.seeedstudio.com/blog/author/ellie/) (Community Manager at Seeed Studio)
-*   [Stefanie Mueller](http://people.csail.mit.edu/stefaniemueller) (MIT, Associate Professor)
-*   [Cedric Honnet](https://honnet.eu/) (MIT, PhD student)
+*   [Seungwoo JE](https://www.seungwooje.com/) (SUSTech School of Design)
+*   [Cedric Honnet](https://honnet.eu/) (Massachusetts Institute of Technology)
+
+
+<div class="section-title">
+    <h1 class="custom-h1">Commitee</h1>
+</div>
+
+*   [Xueliang Li](https://designschool.sustech.edu.cn/about/team/faculty/483.html) (SUSTech School of Design)
+*   [Pengcheng An](https://anpengcheng.cn/) (SUSTech School of Design)
+*   [Ellie Cai](https://www.seeedstudio.com/blog/author/ellie/) (Seeed Studio)
+
+
+<div class="section-title">
+    <h1 class="custom-h1">Advisors</h1>
+</div>
+
+*   [Xiaohua Sun](https://shdi.tongji.edu.cn/shdien/8d/fe/c16452a167422/page.htm) (SUSTech School of Design)
+*   [Stefanie Mueller](http://people.csail.mit.edu/stefaniemueller) (Massachusetts Institute of Technology)
+
 
 <div class="section-title">
     <h1 class="custom-h1">Support Team</h1>
 </div>
 
 *   [Yilong Lin](https://sites.google.com/view/yilonglin/) (SUSTech Student Volunteer)
-*   [Paul Hamilton](https://gitlab.com/parkview) (Shenzhen / Hardware Mentor)
+*   [Paul Hamilton](https://gitlab.com/parkview) (Shenzhen Hardware Mentor)
 *   More soon!
 
 <div class="section-title">
