@@ -22,15 +22,15 @@ permalink: /program/
     <tr>
       <td>08:00-09:00</td>
       <td></td>
-      <td rowspan="11">Factories visits</td>
-      <td rowspan="11">Factories & HuaQiangBei visits</td>
-      <td>Going to Chaihuo</td>
+      <td rowspan="11">Factories visit (English) & HuaQiangBei (Chinese)</td>
+      <td rowspan="11">Factories visit (Chinese) & HuaQiangBei (English)</td>
+      <td>Gathering</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>09:00-10:00</td>
-      <td rowspan = "3">Registration (University tour for early arriving participants 10:30)</td>
+      <td rowspan = "3">Registration (University tour for early arriving participants 10:00)</td>
       <td rowspan = "3">Hands-on Workshop by Seeed Studio</td>
       <td rowspan = "2">Hackathon results presentation</td>
       <td rowspan="13">Cultural visits<br>(optional)</td>
@@ -40,7 +40,7 @@ permalink: /program/
     </tr>
     <tr>
       <td>11:00-12:00</td>
-      <td>Seminar</td>
+      <td>Academic talk</td>
     </tr>
     <tr>
       <td>12:00-13:00</td>
@@ -65,11 +65,11 @@ permalink: /program/
     </tr>
     <tr>
       <td>17:00-18:00</td>
-      <td>Keynote</td>
+      <td>Industry talk</td>
     </tr>
     <tr>
       <td>18:00-19:00</td>
-      <td rowspan="3"></td>
+      <td>Reception</td>
     </tr>
     <tr>
       <td>19:00-20:00</td>
