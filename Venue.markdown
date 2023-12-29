@@ -5,43 +5,35 @@ permalink: /venue/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Venue</h1>
+    <h1 class="custom-h1">Address</h1>
 </div>
-
-Chaihuo Makerspace <br>
-B622,Vanke Cloud City, Xingke Road, Xili Community, Xili Street, Nanshan District, Shenzhen, China <br>
-Nearest Subway Station: Liuxiandong Station (Line5) <br>
-
----
-
-柴火创客空间 <br>
-广东省深圳市南山区打石二路万科云设计公社B622 <br>
-最近的地铁站：留仙洞站（5号线） <br>
 
 SUSTech School of Design <br>
-Bldg.C1, Nanshan Zhiyuan, No.1001 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong, China <br>
-
----
+[Bldg.C1 (11th floor), Nanshan Zhiyuan, No.1001 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong, China](https://www.bing.com/maps?osid=338ac5d1-acab-4a7f-94ee-33d50a1a2fda&cp=22.594972~114.004652&lvl=19.370317&pi=0&v=2&sV=2&form=S00027) <br>
 
 南方科技大学设计学院 <br>
-中国广东省深圳市南山区学苑大道1001号南山智园C1栋 <br>
+[中国广东省深圳市南山区学苑大道1001号南山智园C1栋(11楼)](https://j.map.baidu.com/df/s2k) <br>
+
 
 <div class="section-title">
-    <h1 class="custom-h1">Traffic</h1>
+    <h1 class="custom-h1">Coming here</h1>
 </div>
 
-*   Taxi: 1 hour from Shenzhen Bao'an International Airport
-*   Subway: Line 11, get off at Qianhaiwan Station; change to Line 5, Tanglang Station, Exit C
+Subway: Line 5, Tanglang Station, Exit C <br>
+Taxi: 1 hour from Shenzhen Bao'an International Airport <br>
 
----
-
-*   出租车：距离深圳宝安国际机场1小时车程
-*   地铁：11号线，前海湾站下车；换乘5号线，塘朗站，C出口
+地铁：5号线塘朗站C出口 <br>
+出租车：距深圳宝安国际机场 1 小时车程 <br>
 
 <div class="section-title">
     <h1 class="custom-h1">Hotel</h1>
 </div>
-Coming soon!
+
+There are many options around, but a few of us will stay in the Yayuan Tanglang Hotel:
+*   Description: [English](https://www.trip.com/hotels/shenzhen-hotel-detail-1047092/yayuan-tanglang-hotel-shenzhen-xili-southern-university-of-science-and-technology/) / [Chinese](https://hotels.ctrip.com/hotels/1047092.html?cityid=30)
+*   Reservation by email: 3081231147(at)qq.com
+
+
 
 <style>
 /* 如果你想让每个标题在一个特定的区域或者容器中居中，你也可以使用 .section-title 类： */
