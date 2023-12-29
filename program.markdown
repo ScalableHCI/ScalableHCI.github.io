@@ -5,7 +5,7 @@ permalink: /program/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Schedule (tentative)</h1>
+    <h1 class="custom-h1">Schedule</h1>
 </div>
 
 <div class="table-wrapper">
@@ -22,40 +22,41 @@ permalink: /program/
     <tr>
       <td>08:00-09:00</td>
       <td></td>
-      <td rowspan="11">Factories visits</td>
-      <td rowspan="11">Factories & HuaQiangBei visits</td>
-      <td>Going to Chaihuo</td>
+      <td rowspan="11">Factories (CN) & HuaQiangBei (EN) visits <br><br> (bus departure from SUSTech School of Design)</td>
+      <td rowspan="11">Factories (EN) & HuaQiangBei (CN) visits <br><br> (bus departure from SUSTech School of Design)</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>09:00-10:00</td>
-      <td rowspan = "3">Registration (University tour for early arriving participants 10:30)</td>
-      <td rowspan = "3">Hands-on Workshop by Seeed Studio</td>
-      <td rowspan = "2">Hackathon results presentation</td>
-      <td rowspan="13">Cultural visits<br>(optional)</td>
+      <td rowspan = "1">Registration & goodies <br> (11th floor)</td>
+      <td rowspan = "3">Hands-on Workshop by Seeed Studio <br> (11th floor)</td>
+      <td rowspan = "2">Hackathon results presentation <br> (11th floor)</td>
+      <td rowspan="13">Cultural visit: Dafen Art Village <br><br> (bus departure from SUSTech School of Design)</td>
     </tr>
     <tr>
       <td>10:00-11:00</td>
+      <td rowspan = "2">University tour</td>
     </tr>
     <tr>
       <td>11:00-12:00</td>
-      <td>Seminar</td>
+      <td>Closing Keynote by Eric Paulos, UC Berkeley</td>
     </tr>
     <tr>
       <td>12:00-13:00</td>
-      <td rowspan="2">Lunch Time</td>
-      <td rowspan="2">Lunch Time</td>
-      <td rowspan="2">Lunch Time</td>
+      <td rowspan="2">Lunch break</td>
+      <td rowspan="2">Lunch break</td>
+      <td rowspan="2">Lunch break</td>
     </tr>
     <tr>
       <td>13:00-14:00</td>
     </tr>
     <tr>
       <td>14:00-15:00</td>
-      <td rowspan="3">Demos & Posters session</td>
-      <td rowspan="7">Hackathon <br>(*Educators who do not participate have other schedules)</td>
-      <td rowspan="7">Cultural visits<br>(optional)</td>
+      <td rowspan="3">Demos & Posters session <br> (11th floor)</td>
+      <td rowspan="7">Hackathon <br> (11th floor)</td>
+      <td rowspan="7">Cultural visit: Dongmen food court <br><br> (bus departure from SUSTech School of Design)</td>
     </tr>
     <tr>
       <td>15:00-16:00</td>
@@ -65,14 +66,15 @@ permalink: /program/
     </tr>
     <tr>
       <td>17:00-18:00</td>
-      <td>Keynote</td>
+      <td>Industry talk by Richard Zhang, CSO @ Seeed</td>
     </tr>
     <tr>
       <td>18:00-19:00</td>
-      <td rowspan="3"></td>
+      <td>Drinks & Social</td>
     </tr>
     <tr>
       <td>19:00-20:00</td>
+      <td rowspan="2"></td>
       <td rowspan="2"></td>
       <td rowspan="2"></td>
     </tr>
@@ -109,8 +111,8 @@ permalink: /program/
 
 **Cultural**
 *   Art village (Dafen)
-*   Art & Tech visits (HQB Museums, AIRSpace, etc)
-*   Food exploration field trips
+*   Art & Tech visits (AIRSpace, HQB Museum, etc)
+*   Food exploration field trips (Dongmen)
 
 ---
 
@@ -118,7 +120,7 @@ permalink: /program/
     <h1 class="custom-h1">References</h1>
 </div>
 
-This symposium is a part of a 1-month open research residency, in which everything will be documented online. This program was heavily inspired, and aims to continue the legacy of:
+This symposium is a part of a [1-month open research residency](https://www.media.mit.edu/posts/research-at-scale-2024/), in which everything will be documented online. This program was heavily inspired, and aims to continue the legacy of:
 *    The [Hacker Trip To China](https://www.noisebridge.net/wiki/HTTC2019) by Noisebridge, the San Francisco Hackerspace.
 *    The [Research At Scale](https://www.media.mit.edu/posts/shenzhen-blog-post/) program by the MIT Media Lab.
 
