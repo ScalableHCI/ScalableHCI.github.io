@@ -30,12 +30,18 @@ permalink: /organizers/
 
 
 <div class="section-title">
-    <h1 class="custom-h1">Support Team</h1>
+    <h1 class="custom-h1">Dream Team</h1>
 </div>
 
-*   [Yilong Lin](https://sites.google.com/view/yilonglin/) (SUSTech Student Volunteer)
+*   [Atommann](https://atommann.github.io/) (SZDIY, Shenzhen Hardware Mentor)
+*   [Jose Angel Torres](http://source.parts) (Source Parts, Shenzhen Hardware Mentor)
+*   [Noah Zerkin](http://combinereality.com) (Combine Reality, Shenzhen Hardware Mentor)
 *   [Paul Hamilton](https://gitlab.com/parkview) (Shenzhen Hardware Mentor)
-*   More soon!
+*   [Priscilla Zheng](https://www.linkedin.com/in/priscilla-zheng-2a740323a) (Shenzhen Hardware Mentor)
+*   [Ryan Liang](https://szdiy.org/members) (SZDIY, Shenzhen Hardware Mentor)
+*   [Terry Given](https://ajptour.com/sr_RS/profile/201605) (Shenzhen Hardware Mentor)
+*   [Tully Gehan](https://www.linkedin.com/in/tullytully) (Hardware Massive, Shenzhen Hardware Mentor)
+*   [Yilong Lin](https://sites.google.com/view/yilonglin/) (SUSTech, Student Volunteer)
 
 <div class="section-title">
     <h1 class="custom-h1">Host Institution</h1>
