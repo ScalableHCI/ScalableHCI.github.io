@@ -41,7 +41,15 @@ permalink: /organizers/
 *   [Ryan Liang](https://szdiy.org/members) (SZDIY, Shenzhen Hardware Mentor)
 *   [Terry Given](https://ajptour.com/sr_RS/profile/201605) (Shenzhen Hardware Mentor)
 *   [Tully Gehan](https://www.linkedin.com/in/tullytully) (Hardware Massive, Shenzhen Hardware Mentor)
-*   [Yilong Lin](https://sites.google.com/view/yilonglin/) (SUSTech, Student Volunteer)
+*   [Tianze Xie](https://sites.google.com/view/tianzexie) (SUSTech, Student Volunteer)
+*   [Yilong Lin](https://dragonlyl0718.github.io/) (SUSTech, Student Volunteer)
+*   Yuxin Ma (SUSTech, Student Volunteer)
+*   Zezheng Guan (SUSTech, Student Volunteer)
+*   Kaihan Wang (SUSTech, Student Volunteer)
+*   Yinjie Chang (SUSTech, Student Volunteer)
+*   [Han Shi](https://sites.google.com/view/edmonds39/) (SUSTech, Student Volunteer)
+*   [Feiyu Huang](https://xn--29s704loyd.com/academics/) (SUSTech, Student Volunteer)
+
 
 <div class="section-title">
     <h1 class="custom-h1">Host Institution</h1>
