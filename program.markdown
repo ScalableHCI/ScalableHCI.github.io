@@ -22,22 +22,26 @@ permalink: /program/
     <tr>
       <td>08:00-09:00</td>
       <td></td>
-      <td rowspan="11">Factories (CN) & HuaQiangBei (EN) visits <br><br> (bus departure from SUSTech School of Design)</td>
-      <td rowspan="11">Factories (EN) & HuaQiangBei (CN) visits <br><br> (bus departure from SUSTech School of Design)</td>
+      <td rowspan="1">CN + HK institutions: Factory tour departure at *8am* from <a href="https://scalablehci.com/venue/">SSoD</a></td>
+      <td rowspan="1">Non-CN institutions: Factory tour departure at *8am* from <a href="https://scalablehci.com/venue/">SSoD</a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>09:00-10:00</td>
-      <td rowspan = "1">Registration & goodies <br> (11th floor)</td>
-      <td rowspan = "3">Hands-on Workshop by Seeed Studio <br> (11th floor)</td>
-      <td rowspan = "2">Hackathon results presentation <br> (11th floor)</td>
-      <td rowspan="13">Cultural visit: Dafen Art Village <br><br> (bus departure from SUSTech School of Design)</td>
+      <td rowspan = "1">Registration & goodies <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
+      <td rowspan = "1">Non-CN institutions: Electronic Market tour departure at *9am*</td>
+      <td rowspan = "1">CN + HK institutions: Electronic Market tour departure at *9am*</td>
+      <td rowspan = "3">Hands-on Workshop by Seeed Studio <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
+      <td rowspan = "2">Hackathon results presentation <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
+      <td rowspan="13">Cultural visit: Dafen Art Village <br><br> (bus departure from <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
     </tr>
     <tr>
       <td>10:00-11:00</td>
       <td rowspan = "2">University tour</td>
+      <td rowspan = "9"> Factory or market tour all day </td>
+      <td rowspan = "9"> Factory or market tour all day </td>
     </tr>
     <tr>
       <td>11:00-12:00</td>
@@ -54,9 +58,9 @@ permalink: /program/
     </tr>
     <tr>
       <td>14:00-15:00</td>
-      <td rowspan="3">Demos & Posters session <br> (11th floor)</td>
-      <td rowspan="7">Hackathon <br> (11th floor)</td>
-      <td rowspan="7">Cultural visit: Dongmen food court <br><br> (bus departure from SUSTech School of Design)</td>
+      <td rowspan="3">Demos & Posters session <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
+      <td rowspan="7">Hackathon <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
+      <td rowspan="7">Cultural visit: Dongmen food court <br><br> (bus departure from <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
     </tr>
     <tr>
       <td>15:00-16:00</td>
@@ -66,7 +70,7 @@ permalink: /program/
     </tr>
     <tr>
       <td>17:00-18:00</td>
-      <td>Industry talk by Richard Zhang, CSO @ Seeed</td>
+      <td>Industry talk by Richard Zhang, Seeed CSO</td>
     </tr>
     <tr>
       <td>18:00-19:00</td>
@@ -84,6 +88,7 @@ permalink: /program/
     <!-- ... other rows ... -->
   </table>
 </div>
+
 
 *   The Symposium will cover all transportation and entrance fees required for the visit.
 *   The schedule may be adjusted depending on local circumstances.
