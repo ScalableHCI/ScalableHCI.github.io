@@ -43,12 +43,12 @@ permalink: /organizers/
 *   [Tully Gehan](https://www.linkedin.com/in/tullytully) (Hardware Massive, Shenzhen Hardware Mentor)
 *   [Tianze Xie](https://sites.google.com/view/tianzexie) (SUSTech, Student Volunteer)
 *   [Yilong Lin](https://dragonlyl0718.github.io/) (SUSTech, Student Volunteer)
-*   Yuxin Ma (SUSTech, Student Volunteer)
-*   Zezheng Guan (SUSTech, Student Volunteer)
-*   Kaihan Wang (SUSTech, Student Volunteer)
-*   Yinjie Chang (SUSTech, Student Volunteer)
 *   [Han Shi](https://sites.google.com/view/edmonds39/) (SUSTech, Student Volunteer)
 *   [Feiyu Huang](https://xn--29s704loyd.com/academics/) (SUSTech, Student Volunteer)
+*   [Yuxin Ma](https://www.seungwooje.com/members) (SUSTech, Student Volunteer)
+*   [Zezheng Guan](https://www.seungwooje.com/members) (SUSTech, Student Volunteer)
+*   [Kaihan Wang](https://www.seungwooje.com/members) (SUSTech, Student Volunteer)
+*   [Yinjie Chang](https://www.seungwooje.com/members) (SUSTech, Student Volunteer)
 
 
 <div class="section-title">
