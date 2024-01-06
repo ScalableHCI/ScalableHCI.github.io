@@ -22,7 +22,7 @@ permalink: /program/
     <tr>
       <td>08:00-09:00</td>
       <td></td>
-      <td rowspan="1">CN + HK institutions: Factory tour departure at *8am* from <a href="https://scalablehci.com/venue/">SSoD</a></td>
+      <td rowspan="1">CN institutions: Factory tour departure at *8am* from <a href="https://scalablehci.com/venue/">SSoD</a></td>
       <td rowspan="1">Non-CN institutions: Factory tour departure at *8am* from <a href="https://scalablehci.com/venue/">SSoD</a></td>
       <td></td>
       <td></td>
@@ -32,7 +32,7 @@ permalink: /program/
       <td>09:00-10:00</td>
       <td rowspan = "1">Registration & goodies <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
       <td rowspan = "1">Non-CN institutions: Electronic Market tour departure at *9am*</td>
-      <td rowspan = "1">CN + HK institutions: Electronic Market tour departure at *9am*</td>
+      <td rowspan = "1">CN institutions: Electronic Market tour departure at *9am*</td>
       <td rowspan = "3">Hands-on Workshop by Seeed Studio <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
       <td rowspan = "2">Hackathon results presentation <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
       <td rowspan="13">Cultural visit: Dafen Art Village <br><br> (bus departure from <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
