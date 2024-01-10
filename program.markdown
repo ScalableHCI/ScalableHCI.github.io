@@ -33,7 +33,7 @@ permalink: /program/
       <td rowspan = "1">Registration<br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
       <td rowspan = "10"><a href="https://scalablehci.com/HQB-map">Electronic Market</a> tour <br> <br> departure at *9am* from <a href="https://scalablehci.com/venue/">SSoD</a></td>
       <td rowspan = "10">Factory tour <br> <br> departure at *9am* from <a href="https://scalablehci.com/venue/">SSoD</a></td>
-      <td rowspan = "3">Hands-on Workshop by Seeed Studio <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
+      <td rowspan = "3"><a href = "https://linrayleigh.notion.site/Deploying-a-target-detection-model-on-the-XIAO-ESP32S3-261d13a8bbb7412c835ed295402a8411?pvs=4">Hands-on Workshop by Seeed Studio</a> <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
       <td rowspan = "2">Hackathon results presentation <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
       <td rowspan="13">Cultural visit: Dafen Art Village <br><br> (bus departure from <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
     </tr>
