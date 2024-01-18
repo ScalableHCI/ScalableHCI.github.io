@@ -34,13 +34,11 @@ permalink: /organizers/
 </div>
 
 *   [Atommann](https://atommann.github.io/) (SZDIY, Shenzhen Hardware Mentor)
-*   [Jose Angel Torres](http://source.parts) (Source Parts, Shenzhen Hardware Mentor)
+*   [Jose Angel Torres](http://source.parts) (Source Parts Inc, Shenzhen Hardware Mentor)
 *   [Noah Zerkin](http://combinereality.com) (Combine Reality, Shenzhen Hardware Mentor)
 *   [Paul Hamilton](https://gitlab.com/parkview) (Shenzhen Hardware Mentor)
-*   [Priscilla Zheng](https://www.linkedin.com/in/priscilla-zheng-2a740323a) (Shenzhen Hardware Mentor)
 *   [Ryan Liang](https://szdiy.org/members) (SZDIY, Shenzhen Hardware Mentor)
-*   [Terry Given](https://ajptour.com/sr_RS/profile/201605) (Shenzhen Hardware Mentor)
-*   [Tully Gehan](https://www.linkedin.com/in/tullytully) (Hardware Massive, Shenzhen Hardware Mentor)
+*   [Terry Given](https://ajptour.com/sr_RS/profile/201605) (Tymphany, Shenzhen Hardware Mentor)
 *   [Tianze Xie](https://sites.google.com/view/tianzexie) (SUSTech, Student Volunteer)
 *   [Yilong Lin](https://dragonlyl0718.github.io/) (SUSTech, Student Volunteer)
 *   [Han Shi](https://sites.google.com/view/edmonds39/) (SUSTech, Student Volunteer)
