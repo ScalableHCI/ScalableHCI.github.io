@@ -20,22 +20,13 @@ permalink: /program/
       <th>Sat 13</th>
     </tr>
     <tr>
-      <td>08:00-09:00</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>09:00-10:00</td>
       <td rowspan = "1">Registration<br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
-      <td rowspan = "10"><a href="https://scalablehci.com/HQB-map">Electronic Market</a> tour <br> <br> departure at *9am* from <a href="https://scalablehci.com/venue/">SSoD</a></td>
-      <td rowspan = "10">Factory tour <br> <br> departure at *9am* from <a href="https://scalablehci.com/venue/">SSoD</a></td>
+      <td rowspan = "10"><a href="https://scalablehci.com/HQB-map">Electronic Market</a> tour <br> departure from <a href="https://scalablehci.com/venue/">SSoD</a></td>
+      <td rowspan = "10">Factory tour <br> departure from <a href="https://scalablehci.com/venue/">SSoD</a></td>
       <td rowspan = "3"><a href = "https://linrayleigh.notion.site/Deploying-a-target-detection-model-on-the-XIAO-ESP32S3-261d13a8bbb7412c835ed295402a8411?pvs=4">Hands-on Workshop by Seeed Studio</a> <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
       <td rowspan = "2">Hackathon results presentation <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
-      <td rowspan="13">Cultural visit: Dafen Art Village <br><br> (bus departure from <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
+      <td rowspan="10">Cultural visit: Dafen Art Village <br> (bus departure from <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
     </tr>
     <tr>
       <td>10:00-11:00</td>
@@ -43,7 +34,7 @@ permalink: /program/
     </tr>
     <tr>
       <td>11:00-12:00</td>
-      <td>Closing Keynote by Eric Paulos, UC Berkeley</td>
+      <td>Closing Keynote by <a href="http://www.paulos.net/">Eric Paulos</a>, UC Berkeley</td>
     </tr>
     <tr>
       <td>12:00-13:00</td>
@@ -57,8 +48,8 @@ permalink: /program/
     <tr>
       <td>14:00-15:00</td>
       <td rowspan="3">Demos & Posters session <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
-      <td rowspan="7">Hackathon <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
-      <td rowspan="7">Cultural visit: Dongmen food court <br><br> (bus departure from <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
+      <td rowspan="7">Hackathon: <br> Open Tech for Good! <br> (11th floor of <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
+      <td rowspan="7">Cultural visit: Dongmen food court <br> (bus departure from <a href="https://scalablehci.com/venue/">SSoD</a>)</td>
     </tr>
     <tr>
       <td>15:00-16:00</td>
@@ -68,7 +59,7 @@ permalink: /program/
     </tr>
     <tr>
       <td>17:00-18:00</td>
-      <td>Industry talk by Richard Zhang, Seeed CSO</td>
+      <td>Industry talk by <a href="https://www.linkedin.com/in/rchang">Richard Zhang</a>, Seeed CSO</td>
     </tr>
     <tr>
       <td>18:00-19:00</td>
@@ -78,7 +69,8 @@ permalink: /program/
       <td>19:00-20:00</td>
       <td rowspan="2"></td>
       <td rowspan="2"></td>
-      <td rowspan="2"></td>
+      <td rowspan="2">Art-Tech visit: <a href="https://airs.cuhk.edu.cn/article/998">AIRSpace</a></td>
+      <td rowspan="2">Art-Tech visit: <a href="https://mp.weixin.qq.com/s/iPpPimL4HWsF-NjPthE9TQ">SeeD Project</a></td>
     </tr>
     <tr>
       <td>20:00-21:00</td>
@@ -97,25 +89,22 @@ permalink: /program/
 
 **Academic**
 *   Seminar Presentations by distinguished guests from academia & industry
-*   Poster Presentations by Students (MIT, KAIST, SUSTech, etc.)
-*   Hands-on Workshops
-*   24 Hours Hackathon
+*   Demos & poster from MIT, Harvard, Berkeley, Cornell, Parsons, CMU, NYU, KAIST, SUSTech, etc.
+*   Hands-on Workshop about TinyML
+*   24 Hours Hackathon about "Open Tech for Good"
 
 **Technical**
-*   Field trips to HuaQiangBei
-*   Factories visit options:
-    *   PCB manufacturers
+*   Field trips to the HuaQiangBei Electronic Markets
+*   Factories visit:
+    *   PCB assembly
+    *   Flex PCB manufacturer
     *   Injection molding
-    *   3d printing
-    *   Knitting
-    *   Fibers
     *   etc.
-*   Makerspaces visits
 
 **Cultural**
 *   Art village (Dafen)
-*   Art & Tech visits (AIRSpace, HQB Museum, etc)
-*   Food exploration field trips (Dongmen)
+*   Art & Tech visits (AIRSpace, SeeD Project, HQB Museum, etc)
+*   Food exploration field trip (Dongmen)
 
 ---
 
