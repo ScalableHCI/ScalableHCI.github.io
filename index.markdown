@@ -44,7 +44,7 @@ Shenzhen's infrastructure is meticulously designed to support its tech industrie
     </p>
 </div>
 
-![Logo](assets/logocombine1.jpg)
+![Logo](assets/logocombine.jpg)
 
 <style>
 .image-container {
