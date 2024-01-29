@@ -5,13 +5,13 @@ permalink: /program/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Schedule</h1>
+    <h1 class="custom-h1">Schedule - January 2024</h1>
 </div>
 
 <div class="table-wrapper">
   <table>
     <tr>
-      <th>Time</th>
+      <th></th>
       <th>Mon 8</th>
       <th>Tue 9</th>
       <th>Wed 10</th>
@@ -80,33 +80,6 @@ permalink: /program/
 </div>
 
 
-*   The Symposium will cover all transportation and entrance fees required for the visit.
-*   The schedule may be adjusted depending on local circumstances.
-
-<div class="section-title">
-    <h1 class="custom-h1">Summary</h1>
-</div>
-
-**Academic**
-*   Seminar Presentations by distinguished guests from academia & industry
-*   Demos & poster from MIT, Harvard, Berkeley, Cornell, Parsons, CMU, NYU, KAIST, SUSTech, etc.
-*   Hands-on Workshop about TinyML
-*   24 Hours Hackathon about "Open Tech for Good"
-
-**Technical**
-*   Field trips to the HuaQiangBei Electronic Markets
-*   Factories visit:
-    *   PCB assembly
-    *   Flex PCB manufacturer
-    *   Injection molding
-    *   etc.
-
-**Cultural**
-*   Art village (Dafen)
-*   Art & Tech visits (AIRSpace, SeeD Project, HQB Museum, etc)
-*   Food exploration field trip (Dongmen)
-
----
 
 <div class="section-title">
     <h1 class="custom-h1">References</h1>

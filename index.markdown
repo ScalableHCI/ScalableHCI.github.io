@@ -12,15 +12,26 @@ layout: home
     </div>
 </div>
 
+
+<br>
+
 <div class="section-title">
-    <h1 class="custom-h1">Date</h1>
+    <h1 class="custom-h1">Thank You!!!</h1>
     <p class="section-content-left">
-    January 8 - 12, 2024.
     </p>
 </div>
 
+Scalable HCI 2024 was a blast, we hope to see you next year!
+
+<video width="740" height="419" controls autoplay muted poster="https://raw.githubusercontent.com/ScalableHCI/ScalableHCI.github.io/main/assets/group.jpg">
+    <source src="https://github.com/ScalableHCI/ScalableHCI.github.io/raw/main/assets/video.mp4" type="video/mp4">
+</video>
+
+
+<br>
+
 <div class="section-title">
-    <h1 class="custom-h1">Introduction</h1>
+    <h1 class="custom-h1">About the Symposium</h1>
 </div>
 
 The Scalable HCI Research Symposium is designed to cross pollinate dialogues on Hardware in Human-Computer Interaction (HCI), while showcasing Shenzhen's potential as a global innovation hub.
@@ -28,14 +39,6 @@ Drawing inspiration from influential figures in Open Hardware and Hackerspace mo
 In collaboration with leading open hardware industry partners such as Seeed, the symposium provides invaluable insights into these manufacturing intricacies. The recent pandemic has undeniably disrupted global supply chains, but with China's reopening, the symposium offers a timely platform to rediscover and delve into Shenzhen's revitalized ecosystem.
 Join us for an enlightening journey through the landscape of HCI, where academia meets industry, theory meets practice, and potential meets opportunity.
 
-
-<div class="section-title">
-    <h1 class="custom-h1">Shenzhen</h1>
-</div>
-
-Shenzhen is a major city located in the southern region of Guangdong Province in China, adjacent to Hong Kong. It is known as a significant hub for global electronics manufacturing and is often called the "Silicon Valley of Hardware." The city's rapid growth from a small fishing village to a metropolis is a testament to its remarkable economic development, primarily driven by its booming manufacturing sector.
-In the manufacturing sphere, Shenzhen is home to many high-tech companies, including giants like Huawei and Tencent, as well as many start-ups and small to medium-sized enterprises. The city's manufacturing domain extends to almost any sector, but as for the Californian Silicon Valley, this exponentially growing high-tech hub is expanding its expertises to higher level abstractions (including software, AI, etc), and has the potential to lead the way for Asian innovation.
-Shenzhen's infrastructure is meticulously designed to support its tech industries. The city boasts modern facilities, well-established industrial parks, and specialized zones like the Shenzhen High-Tech Industrial Park (SHIP) and the Shenzhen Software Park, providing a conducive environment for businesses to thrive. Finally, Shenzhen showcases a remarkable blend of historical depth, cultural vibrancy, and a thriving art scene, reflecting the city's diverse and dynamic essence.
 
 <div class="section-title">
     <h1 class="custom-h1">Sponsors</h1>
