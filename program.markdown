@@ -79,6 +79,17 @@ permalink: /program/
   </table>
 </div>
 
+<div class="section-title">
+    <h1 class="custom-h1">Awards</h1>
+</div>
+
+Hackathon winners, selected by Seeed (listed in alphabetical order):
+
+🏆 "_HandSight": Interactive Digital Gloves that Capture and Augment Colors through Touch._ \
+Derrek Chow, Ganit Goldstein, Hila Mor & Yue Yang.
+
+🏆 "_Pedestrian Tail Light": A Wearable Safety Device for Pedestrians and Cyclists in Urban Environments._ \
+Mingzhu Heseri & Joey Verbeke.
 
 
 <div class="section-title">
