@@ -21,7 +21,7 @@ layout: home
     </p>
 </div>
 
-Scalable HCI 2024 was a blast, we hope to see you next year!
+Scalable HCI 2024 was a blast, we hope to see you next year! <b>The 2025 occurence will be Jan 6 - 10 !!</b>
 
 <video width="740" height="419" controls autoplay muted poster="https://raw.githubusercontent.com/ScalableHCI/ScalableHCI.github.io/main/assets/group.jpg">
     <source src="https://github.com/ScalableHCI/ScalableHCI.github.io/raw/main/assets/video.mp4" type="video/mp4">
