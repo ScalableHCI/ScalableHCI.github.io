@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Scalable HCI
+title: Scalable HCI 2025
 email:
 description: Symposium on Scalable Hardware in Human-Computer Interaction
 baseurl: "" # the subpath of your site, e.g. /blog
