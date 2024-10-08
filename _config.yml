@@ -43,7 +43,7 @@ navigation:
     url: /2025/application/
   - title: Organizers
     url: /2025/organizers/
-  - title: Event List
+  - title: Archive
     url: /event-list/
 
 # Exclude from processing.
