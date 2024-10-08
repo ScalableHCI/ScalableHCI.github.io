@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration System Non-Chinese Institutions
-permalink: /registration/system_non/
+permalink: /2024/registration/system_non/
 ---
 
 <div class="section-title">

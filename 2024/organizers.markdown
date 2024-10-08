@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: template2024
 title: Organizers
-permalink: /organizers/
+permalink: /2024/organizers/
 ---
 
 <div class="section-title">

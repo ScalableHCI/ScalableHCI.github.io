@@ -36,13 +36,15 @@ include:
 
 navigation:
   - title: Program
-    url: /program/
+    url: /2025/program/
   - title: Venue
-    url: /venue/
+    url: /2025/venue/
   - title: Registration
-    url: /registration/
+    url: /2025/registration/
   - title: Organizers
-    url: /organizers/
+    url: /2025/organizers/
+  - title: Event List
+    url: /event-list/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

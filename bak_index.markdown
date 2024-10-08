@@ -3,12 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
 ---
 
 <div class="image-container">
     <div class="text-container">
         <p class="line1">Scalable HCI Symposium</p>
-        <p class="line1">Shenzhen, 2024</p>
+        <p class="line1">Shenzhen, 2025</p>
     </div>
 </div>
 

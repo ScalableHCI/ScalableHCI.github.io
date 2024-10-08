@@ -1,36 +1,16 @@
 ---
 layout: page
-title: Registration
-permalink: /registration/
+title: Registration System Chinese Institutions
+permalink: /2024/registration/system/
 ---
 
 <div class="section-title">
-    <h1 class="custom-h1">Registration</h1>
+    <h1 class="custom-h1">Registration System (Chinese Institutions)</h1>
 </div>
 
-- [Non-Chinese institutions](/registration/system_non/)
-
-- [Chinese institutions](/registration/system/)
-
-# Deadline
-December 17, 2023
-
-# Poster / Demo session
-This session is designed to allow participants from various backgrounds to introduce their research to each other.
-The topic can be anything related to HCI and research at scale. This will be non-archival as in other SIGCHI demo/poster sessions, but if participants introduce new work, the posters will not be published.
-
-# Poster Size
-Height 170 cm × Width 120 cm, PDF format
-
-# Poster Printing
-The symposium team will print all the posters.
-
-# Demo
-If you want to show off your prototype, please describe your demo and what you need. The organizer will contact you to help you set up your demo.
-
-# Registration fee
-Free for all.
-
+<div class="fillout-form">
+    <iframe src="https://www.wjx.top/vm/tLwVDbm.aspx?width=760&source=iframe&s=t" width="740" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
 
 <style>
 /* 如果你想让每个标题在一个特定的区域或者容器中居中，你也可以使用 .section-title 类： */
@@ -54,4 +34,14 @@ Free for all.
     padding: 10px 0; /* 可选：添加一些上下填充 */
     font-size: 1.5em; /* 设置字体大小，根据需要调整 */
 }
+
+/* 移动设备样式调整 */
+@media (max-width: 768px) {
+    .fillout-form iframe {
+        width: 100%; /* 在手机端占满可用宽度 */
+        height: auto; /* 高度自动调整 */
+        min-height: 1100px; /* 最小高度设置，确保表单内容可见 */
+    }
+}
+
 </style>

@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: template2024
 title: Venue
-permalink: /venue/
+permalink: /2024/venue/
 ---
 
 <div class="section-title">

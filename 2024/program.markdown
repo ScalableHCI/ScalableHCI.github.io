@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: template2024
 title: Program
-permalink: /program/
+permalink: /2024/program/
 ---
 
 <div class="section-title">
