@@ -8,7 +8,7 @@ permalink: /2024/organizers/
     <h1 class="custom-h1">General Chairs</h1>
 </div>
 
-*   [Seungwoo JE](https://www.seungwooje.com/) (SUSTech School of Design)
+*   [Seungwoo JE](https://immersivedesignresearch.com/seungwoo) (SUSTech School of Design)
 *   [Cedric Honnet](https://honnet.eu/) (Massachusetts Institute of Technology)
 
 
@@ -43,10 +43,10 @@ permalink: /2024/organizers/
 *   [Yilong Lin](https://dragonlyl0718.github.io/) (SUSTech, Student Volunteer)
 *   [Han Shi](https://sites.google.com/view/edmonds39/) (SUSTech, Student Volunteer)
 *   [Feiyu Huang](https://xn--29s704loyd.com/academics/) (SUSTech, Student Volunteer)
-*   [Yuxin Ma](https://www.seungwooje.com/members) (SUSTech, Student Volunteer)
-*   [Zezheng Guan](https://www.seungwooje.com/members) (SUSTech, Student Volunteer)
-*   [Kaihan Wang](https://www.seungwooje.com/members) (SUSTech, Student Volunteer)
-*   [Yinjie Chang](https://www.seungwooje.com/members) (SUSTech, Student Volunteer)
+*   [Yuxin Ma](https://www.immersivedesignresearch.com/members) (SUSTech, Student Volunteer)
+*   [Zezheng Guan](https://www.immersivedesignresearch.com/members) (SUSTech, Student Volunteer)
+*   [Kaihan Wang](https://www.immersivedesignresearch.com/members) (SUSTech, Student Volunteer)
+*   [Yinjie Chang](https://www.immersivedesignresearch.com/members) (SUSTech, Student Volunteer)
 
 
 <div class="section-title">
