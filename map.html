@@ -1,0 +1,205 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+  <title>Map</title>
+  <link rel="stylesheet" href="https://a.amap.com/jsapi_demos/static/demo-center/css/demo-center.css" />
+  <style type="text/css">
+    html,
+    body,
+    #container {
+        width: 100%;
+        height: 100%;
+    }
+    #panel {
+        position: fixed;
+        background-color: white;
+        max-height: 90%;
+        overflow-y: auto;
+        top: 10px;
+        right: 10px;
+        width: 280px;
+    }
+    #panel .amap-call {
+        background-color: #009cf9;
+        border-top-left-radius: 4px;
+           border-top-right-radius: 4px;
+    }
+    #panel .amap-lib-walking {
+        border-bottom-left-radius: 4px;
+           border-bottom-right-radius: 4px;
+        overflow: hidden;
+    }
+</style>
+</head>
+<body>
+    <div id="container"></div>
+    
+
+
+  <div id="panel"></div>
+
+  <!-- <div class="input-card" style="width:13rem">
+    <h4>Language Setting</h4>
+    <div id="lang">
+      <div class="input-item"><input id="en" name="language" type="radio" checked="checked"><span class="input-text">EN</span></div>
+      <div class="input-item"><input id="zh_en" name="language" type="radio"><span class="input-text">CN-EN</span></div>
+      <div class="input-item"><input id="zh_cn" name="language" type="radio"><span class="input-text">CN</span></div>
+    </div>
+  </div> -->
+  <script src="https://cache.amap.com/lbs/static/es5.min.js"></script>
+  <script src="https://webapi.amap.com/maps?v=1.4.15&key=5a4fd49047dd9371da70daf8dd3be257"></script>
+  <script src="https://a.amap.com/jsapi_demos/static/demo-center/js/demoutils.js"></script>
+  <script type="text/javascript" src="https://cache.amap.com/lbs/static/addToolbar.js"></script>
+
+  <script>
+    
+    //初始化地图
+   
+
+    // AMap.plugin('AMap.Geolocation', function() {
+    //     var geolocation = new AMap.Geolocation({
+    //         enableHighAccuracy: true,//是否使用高精度定位，默认:true
+    //         timeout: 10000,          //超过10秒后停止定位，默认：5s
+    //         buttonPosition:'RB',    //定位按钮的停靠位置
+    //         buttonOffset: new AMap.Pixel(10, 20),//定位按钮与设置的停靠位置的偏移量，默认：Pixel(10, 20)
+    //         zoomToAccuracy: true,   //定位成功后是否自动调整地图视野到定位点
+
+    //     });
+    //     map.addControl(geolocation);
+    //     geolocation.getCurrentPosition(function(status,result){
+    //         if(status=='complete'){
+    //             onComplete(result)
+    //         }else{
+    //             onError(result)
+    //         }
+    //     });
+    // });
+
+    // var curretPos;
+    // //解析定位结果
+    // function onComplete(data) {
+    //     document.getElementById('status').innerHTML='定位成功'
+    //     var str = [];
+    //     curretPos = data.position;
+    //     str.push('定位结果：' + data.position);
+    //     str.push('定位类别：' + data.location_type);
+    //     if(data.accuracy){
+    //          str.push('精度：' + data.accuracy + ' 米');
+    //     }//如为IP精确定位结果则没有精度信息
+    //     str.push('是否经过偏移：' + (data.isConverted ? '是' : '否'));
+    //     document.getElementById('result').innerHTML = str.join('<br>');
+    // }
+    // //解析定位错误信息
+    // function onError(data) {
+    //     document.getElementById('status').innerHTML='定位失败'
+    //     document.getElementById('result').innerHTML = '失败原因排查信息:'+data.message;
+    // }
+
+    var map = new AMap.Map('container', {
+      resizeEnable: true,
+      center: [114.004724, 22.594871],
+      zoom: 15,
+      lang: "zh_en" //可选值：en，zh_en, zh_cn
+    });
+
+    var options = {
+        'showButton': true,//是否显示定位按钮
+		'position': 'LB',//定位按钮的位置
+		/* LT LB RT RB */
+		'offset': [10, 20],//定位按钮距离对应角落的距离
+		'showMarker': true,//是否显示定位点
+		'markerOptions':{//自定义定位点样式，同Marker的Options
+		  'offset': new AMap.Pixel(-18, -36),
+		  'content':'<img src="https://a.amap.com/jsapi_demos/static/resource/img/user.png" style="width:36px;height:36px"/>'
+		},
+		'showCircle': true,//是否显示定位精度圈
+		'circleOptions': {//定位精度圈的样式
+			'strokeColor': '#0093FF',
+			'noSelect': true,
+			'strokeOpacity': 0.5,
+			'strokeWeight': 1,
+			 'fillColor': '#02B0FF',
+			'fillOpacity': 0.25
+		}
+    }
+
+    AMap.plugin(["AMap.Geolocation"], function() {
+        var geolocation = new AMap.Geolocation(options);
+        map.addControl(geolocation);
+        geolocation.getCurrentPosition()
+    });
+
+    var marker_SUSTech = new AMap.Marker({
+        map:map,
+        position:[114.004724, 22.594871],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "SUSTech School of Design"
+        } 
+    })
+
+    var marker_AIRS = new AMap.Marker({
+        map:map,
+        position:[114.044374, 22.610955],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "AIRS"
+        } 
+    })
+
+    var marker_CITYHotel = new AMap.Marker({
+        map:map,
+        position:[114.016263,22.622112],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "City Hotel"
+        } 
+    })
+
+    var marker_Hotel = new AMap.Marker({
+        map:map,
+        position:[113.994189,22.591906],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "Yayuan Hotel"
+        } 
+    })
+
+    //绑定radio点击事件
+    var radios = document.querySelectorAll("#lang input");
+    radios.forEach(function(ratio) {
+      ratio.onclick = setLang;
+    });
+
+    function setLang() {
+      map.setLang(this.id);
+    }
+
+    // AMap.plugin('AMap.Walking', function(){
+    //     var walking = new AMap.Walking({
+    //         map: map,
+    //         panel: "panel"
+    //     }); 
+
+    //     console.log("test");
+
+    //     walking.search([114.016263,22.622112], [114.044374, 22.610955], function(status, result) {
+    //         // result即是对应的步行路线数据信息，相关数据结构文档请参考  https://lbs.amap.com/api/javascript-api/reference/route-search#m_WalkingResult
+    //         if (status === 'complete') {
+    //             log.success('绘制步行路线完成')
+    //         } else {
+    //             log.error('步行路线数据查询失败' + result)
+    //         } 
+    //     });
+    // });
+    
+
+
+  </script>
+</body>
+
+</html>
