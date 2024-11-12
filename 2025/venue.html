@@ -119,12 +119,99 @@ Note: flying to HK is generally (cheaper +) safer as they have more visa-free ag
  Afghanistan, Algeria, Bahrain, Cameroon, Egypt, Iran, Iraq, Jordan, Kuwait, Lebanon, Liberia, Libya, Morocco, Oman, Pakistan, Palestine, Saudi Arabia, Somalia, Sri Lanka, Sudan, Syria, Turkey, Uganda, Yemen.
 
     </p>
-
 <b> WARNING: it's important to double check the information above with RECENT official sources.</b>
-
 </p>
 
+    <h2>Payment services in China</h2>
+    <p>
+        Please refer to <a href="https://www.chinadaily.com.cn/specials/GuidetoPaymentServicesinChina.pdf">the China Payment Service Guide</a>.
+    </p>
 
+<div class="section-title">
+    <h1 class="custom-h1">Map</h1>
+</div>
+<div id='container'></div> 
+<!-- <div class="info">
+    <h4 id='status'></h4><hr>
+    <p id='result'></p><hr>
+    <p >由于众多浏览器已不再支持非安全域的定位请求，为保位成功率和精度，请升级您的站点到HTTPS。</p>
+</div> -->
+<script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.15&key=5a4fd49047dd9371da70daf8dd3be257"></script>
+<script type="text/javascript">
+    var map = new AMap.Map('container', {
+        resizeEnable: true,
+        center: [114.008974, 22.494906 ],
+        zoom: 11,
+        lang: 'en'
+    });
+
+
+    var marker_SUSTech = new AMap.Marker({
+        map:map,
+        position:[114.004724, 22.594871],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "SUSTech School of Design"
+        } 
+    })
+
+    var marker_AIRS = new AMap.Marker({
+        map:map,
+        position:[114.044374, 22.610955],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "AIRS"
+        } 
+    })
+
+    var marker_CITYHotel = new AMap.Marker({
+        map:map,
+        position:[114.016263,22.622112],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "City Hotel"
+        } 
+    })
+
+    var marker_YYHotel = new AMap.Marker({
+        map:map,
+        position:[113.994189,22.591906],
+        label: {
+            offset: new AMap.Pixel(-80, 20),//修改label相对于maker的位置
+            content: "Yayuan Hotel"
+        } 
+    })
+
+    var marker_Hqb = new AMap.Marker({
+        map:map,
+        position:[114.085413,22.544441],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "Huaqiangbei"
+        } 
+    })
+
+    var marker_Airport = new AMap.Marker({
+        map:map,
+        position:[113.813974,22.624361],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "Shenzhen Bao'an International Airport"
+        } 
+    })
+
+    var marker_Airport = new AMap.Marker({
+        map:map,
+        position:[113.941527, 22.311526],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "Hong Kong International Airport"
+        } 
+    })
+
+
+
+</script>
 
 <style>
 .custom-h2 {
@@ -133,5 +220,13 @@ Note: flying to HK is generally (cheaper +) safer as they have more visa-free ag
     /* color: #b34c20;  */
     font-weight: 500;
     margin-top: 15px;
+}
+
+#container{
+    min-height: 800px;
+}
+
+.amap-maps {
+    /* height: 800px; */
 }
 </style>
