@@ -28,16 +28,18 @@ title: map
 </div> -->
 <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.15&key=5a4fd49047dd9371da70daf8dd3be257"></script>
 <script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
     var map = new AMap.Map('container', {
         resizeEnable: true,
-        center: [114.008974, 22.494906 ],
-        zoom: 11,
+        // center: [114.008974, 22.494906 ],
+        center: [ 114.085413,22.544441 ],
+        zoom: 16,
         lang: 'en'
     });
 
-    var map = new AMap.Map('container', {
-        resizeEnable: true
-    });
+    // var map = new AMap.Map('container', {
+    //     resizeEnable: true
+    // });
     AMap.plugin('AMap.Geolocation', function() {
         var geolocation = new AMap.Geolocation({
             enableHighAccuracy: true,//是否使用高精度定位，默认:true
@@ -109,6 +111,24 @@ title: map
             content: "Yayuan Hotel"
         }
     })
+    
+    var marker_Airport = new AMap.Marker({
+        map:map,
+        position:[113.813974,22.624361],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "Shenzhen Bao'an International Airport"
+        }
+    })
+    
+    var marker_Airport = new AMap.Marker({
+        map:map,
+        position:[113.941527, 22.311526],
+        label: {
+            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
+            content: "Hong Kong International Airport"
+        }
+    })
 
     var marker_Hqb = new AMap.Marker({
         map:map,
@@ -119,24 +139,137 @@ title: map
         }
     })
 
-    var marker_Airport = new AMap.Marker({
-        map:map,
-        position:[113.813974,22.624361],
-        label: {
-            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
-            content: "Shenzhen Bao'an International Airport"
-        }
-    })
 
-    var marker_Airport = new AMap.Marker({
-        map:map,
-        position:[113.941527, 22.311526],
-        label: {
-            offset: new AMap.Pixel(20, 20),//修改label相对于maker的位置
-            content: "Hong Kong International Airport"
-        }
-    })
+    // Andy adding per-building info
+    // SEG plaza as reference point
+var marker_SEGPlaza = new AMap.Marker({
+    map: map,
+    position: [114.08756800938518, 22.54132787092848],
+    label: {
+        offset: new AMap.Pixel(20, 20),
+        content: "SEG Plaza (5)"
+    }
+});
 
+
+var electronicMarkets = [
+    "Passive component reels (A2)",
+    "Tool building 4th floor (A3)",
+    "Component building (A3)",
+    "International LED building (A2)",
+    
+    // "SEG components building (B3)", # duplicate of SEG plaza
+    "Interesting cell phone market (B1)",
+    "Shipper alley (B2)",
+    "Survelance market L5+L6 (B2)",
+    "Survelance market L5+L6 (B2)",
+    // "Cell phone accessories (B2)", # couldn't find 9 on map
+
+    "Cell phone components (B3,D3)",
+    "Cell phone components (B3,D3)",
+    "Soldering tools, behind (C3)",
+    "Second Hand Components Basement (A3)",
+
+    "Cameras L2+L3 (B2)",
+    "Wearables Mall (B3)",
+    "Tool Brothers (C3)",
+    "HQB Museum (B2)"
+];
+
+var electronicMarketsCoords = [
+    [22.541137251425685, 114.08498483992268 ],
+    [22.541748362962036, 114.08491519141874 ],
+    [22.540922825684046, 114.08610502002784 ],
+    [22.541957426813916, 114.08609341194385 ],
+
+    [22.543751959061424, 114.08727150078714],
+    [22.542196699994776, 114.08793505444521],
+    [22.542046376628377, 114.08812285265032],
+    [22.5425956342888, 114.08807277312897],
+
+    [22.540289770499545, 114.09222465677284],
+    [22.54025915796669, 114.08997912197103],
+    [22.54003721690049, 114.08988797480194],
+    [22.540228545425126, 114.08645752677745],
+
+    [22.542031764685536, 114.08707568800273],
+    [22.541283224249533, 114.0880815250345],
+    [22.540106938214265, 114.09071551556049,],
+    [22.54260653405832, 114.08699608938642 ],
+];
+
+for (var i = 0; i < electronicMarketsCoords.length; i++) {
+    var marker = new AMap.Marker({
+        map: map,
+        position: [electronicMarketsCoords[i][1], electronicMarketsCoords[i][0]],
+        label: {
+            offset: new AMap.Pixel(20, 20),
+            content: electronicMarkets[i],
+            anchor:'bottom-left',
+        }
+    });
+}
+
+
+
+
+
+// var metroStations = [
+//     "Huaqiang Road Exit A (A3)",
+//     "Huaqiang North (A1)",
+//     "Science Museum Exit C (D3)",
+//     "Science Museum Exit B (D3)",
+//     "Huaqiang North Exit E (B2)",
+//     "Huaqiang North Exit D (B3)"
+// ];
+
+
+// var metroStationsCoords = [
+//     [22.54068966201139, 114.08617909670981],
+//     [22.542839948950196, 114.08654387713283],
+//     [22.540387430044362, 114.09403260467842],
+//     [22.54085316425655, 114.09336741684821],
+//     [22.541913446931346, 114.08681746245634],
+//     [22.541135576799817, 114.08686037780006],
+// ]
+
+// for (var i = 0; i < metroStationsCoords.length; i++) {
+//     var marker = new AMap.Marker({
+//         map: map,
+//         position: [metroStationsCoords[i][1], metroStationsCoords[i][0]],
+//         markerShape: 'circle',
+//         label: {
+//             offset: new AMap.Pixel(20, 20),
+//             content: metroStations[i],
+//             anchor:'bottom-left',
+//         }
+//     });
+// }
+
+// var nightMarkets = [
+//     "Tata City (B2-B3)",
+//     "Watch/Perfume (C3-C4)"
+// ];
+
+// var hotels = [
+//     "Huaqiang Plaza (A2)",
+//     "Maker Hotel (B3)",
+//     "Chicago Suits International Hotel (D2)"
+// ];
+
+// var foodLocations = [
+//     "Mall Basement (B2)",
+//     "Mall Basement (B2)",
+//     "BBQ (D4)",
+//     "MacDonalds (C3)",
+//     "Burger King + Manhar Food Court"
+// ];
+
+
+
+});
+
+// wait for dom to load, then update zoom
 
 
 </script>
