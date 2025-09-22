@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Scalable HCI 2025
+title: Scalable HCI 2026
 email:
 description: Symposium on Scalable Hardware in Human-Computer Interaction
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,13 +36,13 @@ include:
 
 navigation:
   - title: Program
-    url: /2025/program/
+    url: /2026/program/
   - title: Venue
-    url: /2025/venue/
+    url: /2026/venue/
   - title: Application
-    url: /2025/application/
+    url: /2026/application/
   - title: Organizers
-    url: /2025/organizers/
+    url: /2026/organizers/
   - title: Archive
     url: /archive/
 
