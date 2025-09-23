@@ -1,6 +1,6 @@
 /* Glassy blue gradient header */
 .site-header {
-    border-top: #333446 2px solid;
+    border-top: #173356 2px solid;
     //background: linear-gradient(135deg, #e0f7ff 0%, #b3e5ff 100%);
 
   backdrop-filter: blur(12px);
@@ -24,7 +24,7 @@
 .custom-h1 {
     font-size: 2em; 
     font-weight: 500; 
-    color: #295F98; 
+    color: #3D74B6; 
     text-align: left; 
     margin: 0; 
     padding: 20px 0 10px; 
@@ -56,20 +56,23 @@ h2{
 .image-container {
     position: relative;
     width: 100%;
-    height: 300px;
+    height: 340px;
 }
 
 .container-background-2026 {
     filter: brightness(80%);
     width: 100%;
     height: 100%;
-    background-image: url('/assets/shenzhenbg2026.jpg');
-    background-size: 140%;
+    background: url('/assets/shenzhenbg2026.jpg') top/cover no-repeat,
+              rgba(0, 0, 0, 0.25); 
+    background-size: 150%;
     background-position: top;
     position: absolute;
     top: 0;
     left: 0;
     z-index: -2;
+    border-radius: 5px;  
+    background-blend-mode: multiply;
 }
 
 
@@ -110,16 +113,19 @@ h2{
 }
 
 .content-notification {
-    display: inline-block;
-    color: #85A947;
+    display: block;
+    text-align: center;
+    color: white;
     hyphens: auto;
-    margin: 0;
-    padding: 10px 0 20px 0;
+    padding: 0;
+    margin: 30px 0 5px 0;
     font-weight: bold;
+    font-size: 1.25em;
+    background-color: #476EAE;
 }
 
 a {
-    color: #7F8CAA;
+    color: #476EAE;
 }
 
 .section-content-center {
