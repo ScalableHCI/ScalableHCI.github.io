@@ -64,11 +64,20 @@ h2{
     height: 450px;
 }
 
-@media (max-width: 800px) { 
+@media (max-width: 768px) { 
     .image-container {
-        height: 250px;
+        height: 350px;
     }
- }
+}
+
+@media (max-width: 576px) { 
+    .image-container {
+        height: 150px;
+    }
+}
+
+
+
 
 .container-background-2026 {
     filter: brightness(80%);
