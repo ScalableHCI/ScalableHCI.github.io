@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    <header class="site-header" role="banner">
+      {%- include header.html -%}
+    </header>
+
+    <main class="page-content page-home" aria-label="Content">
+      <div class="image-container">
+      <div class="container-background-2026"></div>
+          <div class="text-container">
+              <p class="line1">Scalable HCI Symposium</p>
+              <p class="line1">Shenzhen, 2026</p>
+          </div>
+      </div>
+      <div class="wrapper">
+        <article class="post hentry" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content e-content" itemprop="articleBody">
+            {{ content }}
+          </div>
+        </article>
+      </div>
+    </main>
+
+    <!-- <footer class="site-footer h-card"> -->
+      {%- include footer.html -%}
+    <!-- </footer> -->
+
+  </body>
+
+</html>
+
+
+
+
