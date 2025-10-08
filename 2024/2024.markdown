@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: template2024
-permalink: /2024
+permalink: /2024/
 ---
 
 <div class="image-container">
