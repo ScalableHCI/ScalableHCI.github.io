@@ -43,11 +43,12 @@ navigation:
     url: /2026/application/
   - title: Organizers
     url: /2026/organizers/
+  - title: Sponsors
+    url: /2026/sponsors/
   - title: Archive
     url: /archive/
 
-#  - title: Sponsors
-#    url: /2026/sponsors/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
