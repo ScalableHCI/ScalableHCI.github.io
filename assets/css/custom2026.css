@@ -1,7 +1,6 @@
 /* Glassy blue gradient header */
 .site-header {
     border-top: #173356 2px solid;
-    //background: linear-gradient(135deg, #e0f7ff 0%, #b3e5ff 100%);
 
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px); /* Safari */
@@ -77,6 +76,11 @@ h2{
     }
 }
 
+.content-sponsors-logo {
+    margin: 15px 0;
+    width: 95% !important
+    
+}
 
 
 
