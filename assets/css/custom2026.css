@@ -147,12 +147,16 @@ h2{
     hyphens: auto;
     padding: 0;
     margin: 30px 0 5px 0;
-    padding: 5px;
+    padding: 8px 5px;
     font-weight: 500;
     font-size: 1.25em;
     background-color: #476EAE;
     border-radius: 5px;
 
+    a {
+        color: white;
+        text-decoration: underline;
+    }
 }
 
 a {
@@ -199,6 +203,22 @@ a {
         height: 50px;
         width: auto;
     }
+}
+
+.sponsor-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem; /* spacing between logos */
+  margin-top: 15px;
+}
+
+.sponsor-logo {
+  height: 50px;           
+  width: auto;
+  object-fit: contain;
+  transition: transform 0.2s ease;
 }
 
 .button-apply {
