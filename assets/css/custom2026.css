@@ -210,7 +210,7 @@ a {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 2rem; /* spacing between logos */
+  gap: 10px;
   margin-top: 15px;
 }
 
