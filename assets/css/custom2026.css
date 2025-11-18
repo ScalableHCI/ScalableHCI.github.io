@@ -228,15 +228,15 @@ a {
 .button-apply a {
     text-align: center;
     /* margin: 20px 0 20px; */
-    border: 1px solid #476EAE;
-    color: #476EAE;
+    border: 1px solid rgb(255, 224, 124);
+    color: rgb(255, 224, 124);
     padding: 10px 50px;
     border-radius: 5px;
 }
 
 .button-apply a:hover {
     color: white;
-    background: #476EAE;
+    background: rgb(255, 224, 124);
     border: none;
     text-decoration: none;
 }
