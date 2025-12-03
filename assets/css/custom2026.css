@@ -237,6 +237,10 @@ a {
   transition: transform 0.2s ease;
 }
 
+.logo-nat {
+    height: 35px;
+}
+
 .button-apply {
     margin: 30px 0 20px;
 }
