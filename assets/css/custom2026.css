@@ -291,8 +291,12 @@ a {
     height: 35px;
 }
 
+.logo-bergsonnelabs {
+    height: 45px;
+}
+
 .logo-cfoundation {
-    height: 50px;
+    height: 55px;
     /* margin: 0 15px; */
 }
 
