@@ -320,3 +320,13 @@ a {
     border: none;
     text-decoration: none;
 }
+
+details {
+    margin-bottom: 10px;
+}
+
+details ul {
+    margin-left: 45px;
+    margin-bottom: 0px;
+}
+
