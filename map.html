@@ -4,7 +4,7 @@ title: Map
 ---
 
 <div class="section-title ">
-    <h1 class="custom-h1">HuaQiangBei Map</h1>
+    <h1 class="custom-h1">HuaQiangBei Map (WORK IN PROGRESS)</h1>
 </div>
 <p class="content-text add-padding-b">
     This is an attempt to map some of the fundamental places in the Shenzhen electronic market. <br>
@@ -87,126 +87,106 @@ title: Map
             // Optional: Update UI with location error
         }
 
-        // --- UNIFIED MARKER DATA ---
-        // labelOffset defaults to [20, 20] if not specified
         var allMarkers = [
-            // --- Local Markers (Ported) ---
+            // Main parts of the symposium tour
             {
-                position: [114.004724, 22.594871],
-                title: "SUSTech School of Design",
-                images: []
+                position: [114.08756800938518, 22.54132787092848],
+                title: "1) SEG Plaza (L1 + L2 mostly)",
+                info: "Electronic components (L1), dev boards + HQB book (L2), etc.",
+                images: ["./assets/map/seg_tower.jpg", "./assets/map/seg.jpg", "./assets/map/seg_mj.jpg"]
             },
             {
-                position: [114.062274, 22.602443],
-                title: "AIRS",
-                images: []
+                position: [114.08703588869457, 22.542319149371928],
+                title: "2) Stickers (L2)",
+                info: "Here you can even get custom hologram stickers!",
+                images: ["./assets/map/stickers.jpg"]
             },
-            {
-                position: [114.057476, 22.602409],
-                title: "City Hotel",
-                images: []
-            },
-            {
-                position: [113.994189, 22.591906],
-                title: "Yayuan Hotel",
-                labelOffset: [-80, 20],
-                images: []
-            },
-            {
-                position: [114.085413, 22.544441],
-                title: "Huaqiangbei",
-                images: []
-            },
-
-            // --- Remote Markers (Electronic Markets & More) ---
             {
                 position: [114.08699608938642, 22.54260653405832],
-                title: "HQB Museum (B2)",
-                info: "深圳市福田区华强北路1058号华强北现代之窗大厦五楼",
+                title: "3) HQB Museum",
+                info: "Great to see how Shenzhen/HQB grew in just a couple of decades.",
                 images: ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvrH4V4jB60KjY1pnXVSa6mAm3J-YKtS70A&s"]
             },
             {
-                position: [114.08756800938518, 22.54132787092848],
-                title: "SEG Plaza",
-                images: ["./assets/seg.jpg"]
+                position: [114.08727150078714, 22.543751959061424],
+                title: "4) Phone repair alley (L1) + smart glasses (L2) + shanzhai (L3)",
+                info: "The repair alley is a bit hidden on the left of L1",
+                images: ["./assets/map/shanzhai_summary.jpg"]
             },
             {
+                position: [114.08609341194385, 22.541957426813916],
+                title: "5) International LED building (L5)",
+                info: "There are also lots of cool gadgets on L2 and SMD parts on L1",
+                images: ["./assets/map/led_building1.jpg", "./assets/map/led_building2.jpg"]
+            },
+            {
+                position: [114.08610502002784, 22.540922825684046],
+                title: "6) Components (L1) + Laptop repair shops (higher floors)",
+                info: "Becoming a gadget mall, but has a lot more (PCB analysis, etc)",
+                images: ["./assets/map/pcb_analysis.jpg", "./assets/map/smart_glasses2.jpg"]
+            },
+            {
+                position: [114.08645752677745, 22.540228545425126],
+                title: "A) Second Hand Components Recycling Basement",
+                info: "NO PHOTO HERE: they disassemble and sort parts, you can access it from the metro.",
+                images: ["./assets/map/recycle.jpg"]
+            },
+            {
+                position: [114.08988797480194, 22.54003721690049],
+                title: "B) Smartphones + wearables parts (L2 and more)",
+                info: "NO PHOTO HERE: iPhone/Watch haptics, EarPod batteries, iPad screens, etc => hidden elevator!",
+                images: ["./assets/map/smartphone_parts.jpg", "./assets/map/smartphone_parts2.jpg"]
+            },
+            {
+                position: [114.09071551556049, 22.540106938214265],
+                title: "C) Tool Brothers (L1)",
+                info: "Fancy soldering tools there, they speak English!",
+                images: ["./assets/map/tools_brothers.jpg"]
+            },
+
+            // Extra:
+            {
                 position: [114.08498483992268, 22.541137251425685],
-                title: "Passive component reels (A2)",
+                title: "Passive component reels",
                 images: []
             },
             {
                 position: [114.08491519141874, 22.541748362962036],
-                title: "Tool building 4th floor (A3)",
-                images: []
-            },
-            {
-                position: [114.08610502002784, 22.540922825684046],
-                title: "Component building (A3)",
-                images: []
-            },
-            {
-                position: [114.08609341194385, 22.541957426813916],
-                title: "International LED building (A2)",
-                images: []
-            },
-            {
-                position: [114.08727150078714, 22.543751959061424],
-                title: "Interesting cell phone market (B1)",
+                title: "Tool building 4th floor",
                 images: []
             },
             {
                 position: [114.08793505444521, 22.542196699994776],
-                title: "Shipper alley (B2)",
+                title: "Shipper alley",
                 images: []
             },
             {
                 position: [114.08812285265032, 22.542046376628377],
-                title: "Survelance market L5+L6 (B2)",
+                title: "Survelance market L5+L6",
                 images: []
             },
             {
                 position: [114.08807277312897, 22.5425956342888],
-                title: "Survelance market L5+L6 (B2)",
-                images: []
-            },
-            {
-                position: [114.09222465677284, 22.540289770499545],
-                title: "Cell phone components (B3,D3)",
-                images: []
-            },
-            {
-                position: [114.08997912197103, 22.54025915796669],
-                title: "Cell phone components (B3,D3)",
-                images: []
-            },
-            {
-                position: [114.08988797480194, 22.54003721690049],
-                title: "Soldering tools, behind (C3)",
-                images: []
-            },
-            {
-                position: [114.08645752677745, 22.540228545425126],
-                title: "Second Hand Components Basement (A3)",
+                title: "Survelance market L5+L6",
                 images: []
             },
             {
                 position: [114.08707568800273, 22.542031764685536],
-                title: "Cameras L2+L3 (B2)",
+                title: "Cameras L2+L3",
                 images: []
             },
             {
                 position: [114.0880815250345, 22.541283224249533],
-                title: "Wearables Mall (B3)",
-                images: []
-            },
-            {
-                position: [114.09071551556049, 22.540106938214265],
-                title: "Tool Brothers (C3)",
+                title: "Wearables Mall",
                 images: []
             },
 
             // General locations
+            {
+                position: [114.085413, 22.544441],
+                title: "HuaQiangBei station",
+                images: []
+            },
             {
                 position: [113.813974, 22.624361],
                 title: "Shenzhen Bao'an International Airport",
