@@ -142,6 +142,10 @@ h2{
     margin: 0;
 }
 
+video {
+        padding-top: 20px;
+    }
+
 @media (max-width: 768px) {
     .line1 {
         font-size: 2em;
